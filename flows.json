@@ -92,7 +92,10 @@
         "z": "c5e275f6141a6609",
         "name": "Nivel TK Agua con Cloro",
         "style": {
-            "label": true
+            "label": true,
+            "fill": "#ffcf3f",
+            "fill-opacity": "0.47",
+            "color": "#000000"
         },
         "nodes": [
             "76302588350a47a3",
@@ -103,9 +106,9 @@
             "4bc23d1263952d16"
         ],
         "x": 14,
-        "y": 99,
-        "w": 1012,
-        "h": 182
+        "y": 139,
+        "w": 1112,
+        "h": 162
     },
     {
         "id": "fb0d20e5bd7c1d7b",
@@ -113,7 +116,10 @@
         "z": "c5e275f6141a6609",
         "name": "Nivel TK Alcohol 1 (Natura)",
         "style": {
-            "label": true
+            "label": true,
+            "fill": "#ffcf3f",
+            "color": "#000000",
+            "fill-opacity": "0.44"
         },
         "nodes": [
             "afe75f1a9c35f353",
@@ -124,9 +130,9 @@
             "56a3194fba5234a4"
         ],
         "x": 14,
-        "y": 371.5,
+        "y": 319,
         "w": 1112,
-        "h": 129.5
+        "h": 142
     },
     {
         "id": "a5c4e8c2a67b6692",
@@ -134,7 +140,10 @@
         "z": "c5e275f6141a6609",
         "name": "Nivel TK Alcohol 2 (Avon)",
         "style": {
-            "label": true
+            "label": true,
+            "fill": "#ffcf3f",
+            "fill-opacity": "0.48",
+            "color": "#000000"
         },
         "nodes": [
             "86c42d7759746b4a",
@@ -145,9 +154,9 @@
             "367967cb3b041bcc"
         ],
         "x": 14,
-        "y": 531.5,
+        "y": 479,
         "w": 1112,
-        "h": 129.5
+        "h": 142
     },
     {
         "id": "0226210ee61fccfe",
@@ -12068,7 +12077,7 @@
         "payload": "sensores_planta temperatura=24,humedad=60",
         "payloadType": "str",
         "x": 130,
-        "y": 140,
+        "y": 180,
         "wires": [
             [
                 "7b4d0697a5fff595"
@@ -12104,8 +12113,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 940,
-        "y": 20,
+        "x": 980,
+        "y": 40,
         "wires": []
     },
     {
@@ -12179,8 +12188,8 @@
         "authType": "",
         "senderr": false,
         "headers": [],
-        "x": 930,
-        "y": 140,
+        "x": 1030,
+        "y": 180,
         "wires": [
             []
         ]
@@ -12198,8 +12207,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 470,
-        "y": 240,
+        "x": 670,
+        "y": 260,
         "wires": [
             []
         ]
@@ -12215,7 +12224,7 @@
         "diff": true,
         "name": "",
         "x": 130,
-        "y": 180,
+        "y": 220,
         "wires": [
             [
                 "d1e81662dce2e5c0"
@@ -12236,7 +12245,7 @@
         "finalize": "",
         "libs": [],
         "x": 470,
-        "y": 180,
+        "y": 220,
         "wires": [
             [
                 "4bc23d1263952d16"
@@ -12270,7 +12279,7 @@
         "applicationName": "",
         "applicationUri": "",
         "x": 380,
-        "y": 420,
+        "y": 380,
         "wires": [
             [
                 "daf9ac928a59301a"
@@ -12302,7 +12311,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 130,
-        "y": 420,
+        "y": 380,
         "wires": [
             [
                 "afe75f1a9c35f353"
@@ -12323,7 +12332,7 @@
         "finalize": "",
         "libs": [],
         "x": 590,
-        "y": 440,
+        "y": 400,
         "wires": [
             [
                 "9a070abc4c3ea173"
@@ -12344,7 +12353,7 @@
         "finalize": "",
         "libs": [],
         "x": 810,
-        "y": 420,
+        "y": 380,
         "wires": [
             [
                 "eee094824b8e2c06"
@@ -12369,7 +12378,7 @@
         "senderr": false,
         "headers": [],
         "x": 1030,
-        "y": 460,
+        "y": 360,
         "wires": [
             []
         ]
@@ -12388,7 +12397,7 @@
         "finalize": "",
         "libs": [],
         "x": 670,
-        "y": 180,
+        "y": 220,
         "wires": [
             [
                 "7b4d0697a5fff595"
@@ -12409,7 +12418,7 @@
         "finalize": "",
         "libs": [],
         "x": 810,
-        "y": 460,
+        "y": 420,
         "wires": [
             []
         ]
@@ -12428,7 +12437,7 @@
         "finalize": "",
         "libs": [],
         "x": 590,
-        "y": 600,
+        "y": 560,
         "wires": [
             [
                 "8a17adcece9a169a"
@@ -12462,7 +12471,7 @@
         "applicationName": "",
         "applicationUri": "",
         "x": 380,
-        "y": 580,
+        "y": 540,
         "wires": [
             [
                 "efb7f336ce90ca9d"
@@ -12494,7 +12503,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 130,
-        "y": 580,
+        "y": 540,
         "wires": [
             [
                 "86c42d7759746b4a"
@@ -12515,7 +12524,7 @@
         "finalize": "",
         "libs": [],
         "x": 810,
-        "y": 580,
+        "y": 540,
         "wires": [
             [
                 "576339b1c57cf0a0"
@@ -12540,7 +12549,7 @@
         "senderr": false,
         "headers": [],
         "x": 1030,
-        "y": 620,
+        "y": 520,
         "wires": [
             []
         ]
@@ -12559,7 +12568,7 @@
         "finalize": "",
         "libs": [],
         "x": 810,
-        "y": 620,
+        "y": 580,
         "wires": [
             []
         ]
