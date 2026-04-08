@@ -159,6 +159,172 @@
         "h": 142
     },
     {
+        "id": "02f84c092dbab796",
+        "type": "group",
+        "z": "c5e275f6141a6609",
+        "name": "Consumo Trafo 1",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#001f60"
+        },
+        "nodes": [
+            "ee9f626393e1449d",
+            "a0dd6cc80892704b",
+            "3a9fa52c0a029a1a",
+            "f2b683d015b70231",
+            "db9f29c4d8c4e113"
+        ],
+        "x": 14,
+        "y": 631.5,
+        "w": 1132,
+        "h": 97
+    },
+    {
+        "id": "d8034ea49de2ce1d",
+        "type": "group",
+        "z": "c5e275f6141a6609",
+        "name": "Consumo Trafo 2",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "805554af8ce294bb",
+            "8a36c4e5cff45551",
+            "d0edad3591a28edc",
+            "8b21bdbaadce70fa",
+            "91fe67aa8270e59b"
+        ],
+        "x": 14,
+        "y": 739,
+        "w": 1132,
+        "h": 109.5
+    },
+    {
+        "id": "17acd78eb0c3c9d0",
+        "type": "group",
+        "z": "7f559090ad46a58f",
+        "name": "Loops Osmosis",
+        "style": {
+            "fill": "#ffdf7f",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "327a15f16c0e918a",
+            "a0052b0b0165a6c6",
+            "45bcc979f533b33d",
+            "159c8360607d1b27",
+            "bd143f0fca3974b1",
+            "ba53413cc9c16e1c",
+            "22b13140bf100cc4",
+            "fe6e888395e7291a",
+            "6a22325e5f9cb4f7",
+            "f5c8311328195202",
+            "c189fae02a13de94",
+            "6169741d2bd847a1",
+            "7bc360f9944d583d",
+            "ef0f2842c53f2a93",
+            "7c048a40e09a3c98",
+            "937701859a6ef579",
+            "905eb66b430429dc",
+            "950f501684e215ae",
+            "73323c4416e837cc",
+            "ad24311c6aeb6d8c",
+            "8cbe08cea0b26145",
+            "da6333a56b2353e0",
+            "c2406d318ba41bc5",
+            "7341a994e2d5c1f7",
+            "103b20dade9513ed",
+            "79cb6bca9e6312c6",
+            "8eea6d609145915d",
+            "3768325d2f5a9ca5",
+            "70dfbd79fc54bc36",
+            "08d7d78c24f33a7e",
+            "8dd2fdc7b8923afb",
+            "9a779ceabf3a8b9a",
+            "962cb41fbc492678",
+            "dddb31e0662f2b09",
+            "cd52f53389e40238",
+            "61f349d82f1a94b0",
+            "5aa09bb121764cb4",
+            "84ef43cbe86768a4",
+            "c498388321789d95",
+            "54a6155400aff6e7",
+            "fd7b7459dbb83199",
+            "d8ac2819cdbcb051",
+            "9d5d4de6d023a5e8",
+            "433f6d523169e918",
+            "96ac6d2c45aedc58",
+            "1dc95a9ee02d255a",
+            "5b1d1dcce491418d",
+            "b6b7b71fc855915b",
+            "710239bbcfea54e8",
+            "1aed4c67a06f1ec6",
+            "c4e799eba90989d1",
+            "0de3c5985e634242",
+            "14966be44510681c",
+            "67280f83e64b2860",
+            "de300d403de3cef7",
+            "95a3b4e4e1271585",
+            "6d61fc1ca6150f79",
+            "53fea822346be37b",
+            "83dcecac5e9aa95f",
+            "db74c8bfaa88223e",
+            "69e27e98f569925b",
+            "b353b4537b938910",
+            "7e80ab8971742981",
+            "5987735cc089d54c",
+            "78ee715f7d4b0f5a",
+            "135b02c29c3a2d30",
+            "28b7d65af190b155",
+            "042b97c0fb331b5f",
+            "f480ccf63c3e7508",
+            "683a22afbef82e9f",
+            "d8757f2643cd4e3d",
+            "93ac6f5d0c1b9ac3",
+            "b4c7565219c2289a",
+            "a06fc3b2bb1fda3e",
+            "7242561e6888fc53",
+            "0245d37ec7709a3e",
+            "b8e4be7de3e59f71",
+            "5e70ca4bd41b3b86",
+            "69617517a4a4d678",
+            "af421677096e7d85",
+            "21e8efd68c9ade8d",
+            "0e059baaee70cf39",
+            "6b7c78f1fd978183",
+            "a8a060a7d45a9691",
+            "8c35906e258d46b3",
+            "92c85d44c85af9ee",
+            "2310d22551cd7cea",
+            "4cb926bbba29a727",
+            "8bd605966a8f2fc6",
+            "fc1dc7f464a9dd64",
+            "65483c28ec9dc1da",
+            "f6a28a8fecebf342",
+            "3b86c2a222b3b588",
+            "2d72b39aadeed2c1",
+            "5fd09b2646fa9009",
+            "4ccce80338710718",
+            "17c540c1da995178",
+            "f23674965df62f59",
+            "236f55f51b01b10d",
+            "828793802fa6ed0c",
+            "fc96417987305c90",
+            "f7f5bf085ae8f43c",
+            "132bebe5b67a8ac5",
+            "0d60fd1a500fe58a",
+            "3a8be265df14a805"
+        ],
+        "x": -6,
+        "y": 259,
+        "w": 1052,
+        "h": 2122
+    },
+    {
         "id": "0226210ee61fccfe",
         "type": "telegram bot",
         "botname": "Alarmas_Mantenimiento_bot",
@@ -1334,7 +1500,7 @@
     {
         "id": "0dad547b027786f3",
         "type": "OpcUa-Endpoint",
-        "name": "Tanque_Alcohol2",
+        "name": "PLC_Turk",
         "endpoint": "opc.tcp://127.0.0.1:49320",
         "secpol": "None",
         "secmode": "None",
@@ -1343,6 +1509,367 @@
         "usercert": false,
         "usercertificate": "",
         "userprivatekey": ""
+    },
+    {
+        "id": "d39a119cf4d2cf8c",
+        "type": "s7 endpoint",
+        "transport": "iso-on-tcp",
+        "address": "192.168.0.104",
+        "port": "102",
+        "rack": "0",
+        "slot": "1",
+        "localtsaphi": "01",
+        "localtsaplo": "00",
+        "remotetsaphi": "01",
+        "remotetsaplo": "00",
+        "connmode": "rack-slot",
+        "adapter": "",
+        "busaddr": 2,
+        "cycletime": 1000,
+        "timeout": 2000,
+        "name": "Modulo_Osmosis_sin_Cloro",
+        "vartable": [
+            {
+                "addr": "DB5,X0.0",
+                "name": "DB5,X0.0"
+            },
+            {
+                "addr": "DB5,X0.1",
+                "name": "Falta de Fases"
+            },
+            {
+                "addr": "DB5,X0.2",
+                "name": "Baja de Aire Comprimido"
+            },
+            {
+                "addr": "DB5,X0.3",
+                "name": "Parada de Emergencia"
+            },
+            {
+                "addr": "DB5,X0.4",
+                "name": "Falla Fusible"
+            },
+            {
+                "addr": "DB5,X1.0",
+                "name": "Falla Caudalimetro 1"
+            },
+            {
+                "addr": "DB5,X1.1",
+                "name": "Falla Caudalimetro 2"
+            },
+            {
+                "addr": "DB5,X1.2",
+                "name": "Falla Caudalimetro 3"
+            },
+            {
+                "addr": "DB5,X1.3",
+                "name": "Falla Caudalimetro 4"
+            },
+            {
+                "addr": "DB5,X1.4",
+                "name": "Falla Caudalimetro 5"
+            },
+            {
+                "addr": "DB5,X1.5",
+                "name": "Falla Caudalimetro 6"
+            },
+            {
+                "addr": "DB5,X2.0",
+                "name": "Alarma Carga Sanitizante CIP Quimico"
+            },
+            {
+                "addr": "DB5,X2.2",
+                "name": "Alarma Conductividad"
+            },
+            {
+                "addr": "DB5,X2.3",
+                "name": "Alarma de ORP"
+            },
+            {
+                "addr": "DB5,X2.5",
+                "name": "Alta Conductividad EDIC"
+            },
+            {
+                "addr": "DB5,X2.6",
+                "name": "Temperatura Minima de OI"
+            },
+            {
+                "addr": "DB5,X2.7",
+                "name": "Alarma Temperatura PreTratamiento"
+            },
+            {
+                "addr": "DB5,X3.0",
+                "name": "Alarma Alta Temperatura Control CIP"
+            },
+            {
+                "addr": "DB5,X3.1",
+                "name": "Maxima Temperatura Retorno CIP"
+            },
+            {
+                "addr": "DB5,X3.2",
+                "name": "Falla Dureza de Alimentacion"
+            },
+            {
+                "addr": "DB5,X3.3",
+                "name": "Falla Temeratura Disipador SSR"
+            },
+            {
+                "addr": "DB5,X3.4",
+                "name": "Falla  Bomba Dosificadora de Quimico"
+            },
+            {
+                "addr": "DB5,X3.5",
+                "name": "Falla Flujo de Alimentacion"
+            },
+            {
+                "addr": "DB5,X3.6",
+                "name": "Bajo Nivel Tanque de Soda"
+            },
+            {
+                "addr": "DB5,X3.7",
+                "name": "Bajo Nivel Reductor"
+            },
+            {
+                "addr": "DB5,X4.0",
+                "name": "Bajo Nivel Tanque CIP"
+            },
+            {
+                "addr": "DB5,X4.1",
+                "name": "Alto Nivel Tanque CIP"
+            },
+            {
+                "addr": "DB5,X4.2",
+                "name": "Falla Flujo de contra Lavado"
+            },
+            {
+                "addr": "DB5,X4.3",
+                "name": "Bajo Nivel Equipo CIP"
+            },
+            {
+                "addr": "DB5,X4.4",
+                "name": "Alarma Caudal de Entrada"
+            },
+            {
+                "addr": "DB5,X4.5",
+                "name": "Alarma Caudal Minimo de Concentrado"
+            },
+            {
+                "addr": "DB5,X4.6",
+                "name": "Falla Bomba CIP"
+            },
+            {
+                "addr": "DB5,X4.7",
+                "name": "Caudal Minimo de Electrodo"
+            },
+            {
+                "addr": "DB5,X5.0",
+                "name": "Alarma Retorno de CIP"
+            },
+            {
+                "addr": "DB5,X5.1",
+                "name": "Alarma Control CIP"
+            },
+            {
+                "addr": "DB5,X5.2",
+                "name": "AltaTemperatura para Producir"
+            },
+            {
+                "addr": "DB5,X5.3",
+                "name": "Alarma Minimo Caudal de Entrada"
+            },
+            {
+                "addr": "DB5,X5.4",
+                "name": "Alarma Temperatura Minima de Producto"
+            },
+            {
+                "addr": "DB5,X5.5",
+                "name": "Alarma Temperatura Minima de Producto"
+            },
+            {
+                "addr": "DB5,X5.6",
+                "name": "Alarma recuperacion Baja"
+            },
+            {
+                "addr": "DB5,X5.7",
+                "name": "Alarma recuperacion Alta"
+            },
+            {
+                "addr": "DB5,X6.1",
+                "name": "Falla Bomba Alimebtacion"
+            },
+            {
+                "addr": "DB5,X6.2",
+                "name": "Alta Presion de Bomba"
+            },
+            {
+                "addr": "DB5,X6.3",
+                "name": "Falla Bomba de CIP"
+            },
+            {
+                "addr": "DB5,X6.4",
+                "name": "Falla Bomba de Alimentacion Accionada"
+            },
+            {
+                "addr": "DB5,X6.5",
+                "name": "Falla Bomba de Alta Presion"
+            },
+            {
+                "addr": "DB5,X6.6",
+                "name": "Falla Bomba de CIP Accionada"
+            },
+            {
+                "addr": "DB5,X7.0",
+                "name": "Falla Bomba EDI"
+            },
+            {
+                "addr": "DB5,X7.1",
+                "name": "Falla Bomba EDI Accionada"
+            },
+            {
+                "addr": "DB5,X7.2",
+                "name": "Falla EDI"
+            },
+            {
+                "addr": "DB5,X7.3",
+                "name": "Falla Presion  Maxima de Salida Bomba CIP"
+            },
+            {
+                "addr": "DB5,X7.4",
+                "name": "Falla Temperatura Baja Presion"
+            },
+            {
+                "addr": "DB5,X7.5",
+                "name": "Falla Presion de salida minima Bomba CIP"
+            },
+            {
+                "addr": "DB5,X7.6",
+                "name": "Bajo Nivel Tanque Anticrustante"
+            },
+            {
+                "addr": "DB5,X7.7",
+                "name": "Ablandador no Regenerando"
+            },
+            {
+                "addr": "DB5,X8.0",
+                "name": "Falla Ablandadores"
+            },
+            {
+                "addr": "DB5,X8.1",
+                "name": "Falla Presion  Entrada Bomba EDI"
+            },
+            {
+                "addr": "DB5,X8.2",
+                "name": "Falla Presion Minima EDI"
+            },
+            {
+                "addr": "DB5,X8.3",
+                "name": "Falla Presion Maxima Salida Presion EDI"
+            },
+            {
+                "addr": "DB5,X8.4",
+                "name": "Falla Presion MInma Salida Bomba CIP"
+            },
+            {
+                "addr": "DB5,X8.5",
+                "name": "Falla Bomba Alta Presion"
+            },
+            {
+                "addr": "DB5,X8.6",
+                "name": "Falla Bomba Baja Presion"
+            },
+            {
+                "addr": "DB5,X8.7",
+                "name": "Falla Alta Presion Salida Bomba CIP"
+            },
+            {
+                "addr": "DB5,X9.0",
+                "name": "Falla Presion Minima Bomba CIP"
+            },
+            {
+                "addr": "DB5,X9.1",
+                "name": "Alarma Presion minima Bomba Alta"
+            },
+            {
+                "addr": "DB5,X9.2",
+                "name": "Alarma Presion Maxima Entrada Menbrana"
+            },
+            {
+                "addr": "DB5,X9.3",
+                "name": "Alarma Maxima Presion Salida Bomba CIP"
+            },
+            {
+                "addr": "DB5,X9.4",
+                "name": "Falla Alta Presion Alimentacion"
+            },
+            {
+                "addr": "DB5,X9.5",
+                "name": "Falla Presion de Salida"
+            },
+            {
+                "addr": "DB5,X9.6",
+                "name": "Presion Maxima Entrada EDI"
+            },
+            {
+                "addr": "DB5,X9.7",
+                "name": "Presion Minima Salida CIP"
+            },
+            {
+                "addr": "DB5,X10.0",
+                "name": "Bajo Nivel Tanque Cloro"
+            },
+            {
+                "addr": "DB5,X10.1",
+                "name": "Mal Funcionmiento Caudalimetro 1"
+            },
+            {
+                "addr": "DB5,X10.2",
+                "name": "Mal Funcionmiento Caudalimetro 2"
+            },
+            {
+                "addr": "DB5,X10.3",
+                "name": "Mal Funcionmiento Caudalimetro 3"
+            },
+            {
+                "addr": "DB5,X10.4",
+                "name": "Mal Funcionmiento Caudalimetro 4"
+            },
+            {
+                "addr": "DB5,X10.5",
+                "name": "Mal Funcionmiento Caudalimetro 5"
+            },
+            {
+                "addr": "DB5,X10.6",
+                "name": "Mal Funcionmiento Caudalimetro 6"
+            },
+            {
+                "addr": "DB5,X10.7",
+                "name": "Falla Temperatura de Retorno"
+            },
+            {
+                "addr": "DB5,X11.0",
+                "name": "Alarma Alto PH de Alimentacion"
+            },
+            {
+                "addr": "DB5,X11.1",
+                "name": "Alarma Bajo PH de Alimentacion"
+            },
+            {
+                "addr": "DB5,X11.2",
+                "name": "Diferencia de Presion Microfiltros"
+            },
+            {
+                "addr": "DB5,X11.3",
+                "name": "Falla Multimedia Contra Lavado"
+            },
+            {
+                "addr": "DB5,X11.6",
+                "name": "Alarma Recuperacion Alta EDI"
+            },
+            {
+                "addr": "DB5,X12.2",
+                "name": "Conductividad Alta Alimentacion"
+            }
+        ]
     },
     {
         "id": "eca69e2129edadfa",
@@ -6615,8 +7142,8 @@
         "bot": "a8b6d9a9a245c0c5",
         "haserroroutput": false,
         "outputs": 1,
-        "x": 1340,
-        "y": 2380,
+        "x": 1380,
+        "y": 6940,
         "wires": [
             []
         ]
@@ -6625,6 +7152,7 @@
         "id": "327a15f16c0e918a",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla de alimentación eléctrica",
@@ -6642,6 +7170,7 @@
         "id": "a0052b0b0165a6c6",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -6665,6 +7194,7 @@
         "id": "45bcc979f533b33d",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 26",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla de alimentación eléctrica (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -6685,6 +7215,7 @@
         "id": "159c8360607d1b27",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla de alimentación de sensores",
@@ -6702,6 +7233,7 @@
         "id": "bd143f0fca3974b1",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -6725,6 +7257,7 @@
         "id": "ba53413cc9c16e1c",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 27",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla de alimentación de sensores (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -6745,6 +7278,7 @@
         "id": "22b13140bf100cc4",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Parada de emergencia activa",
@@ -6762,6 +7296,7 @@
         "id": "fe6e888395e7291a",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -6785,6 +7320,7 @@
         "id": "6a22325e5f9cb4f7",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 28",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Parada de emergencia activa (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -6805,6 +7341,7 @@
         "id": "f5c8311328195202",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Parada de emergencia activa",
@@ -6822,6 +7359,7 @@
         "id": "c189fae02a13de94",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -6845,6 +7383,7 @@
         "id": "6169741d2bd847a1",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 29",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla de comunicación con plc (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -6865,6 +7404,7 @@
         "id": "7bc360f9944d583d",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Nivel bajo bajo de agua en tanque pw (LLT-7001)",
@@ -6882,6 +7422,7 @@
         "id": "ef0f2842c53f2a93",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -6905,6 +7446,7 @@
         "id": "7c048a40e09a3c98",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 30",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Nivel bajo bajo de agua en tanque pw (LLT-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -6925,6 +7467,7 @@
         "id": "937701859a6ef579",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Nivel bajo bajo de agua en tanque pw (LT-7003)",
@@ -6942,6 +7485,7 @@
         "id": "905eb66b430429dc",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -6965,6 +7509,7 @@
         "id": "950f501684e215ae",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 31",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Nivel bajo bajo de agua en tanque pw (LT-7003) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -6985,6 +7530,7 @@
         "id": "73323c4416e837cc",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "No hay bomba habilitada o disponible para encender el loop de distribución (P70-01 y P70-02)",
@@ -7002,6 +7548,7 @@
         "id": "ad24311c6aeb6d8c",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7013,7 +7560,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 730,
+        "x": 790,
         "y": 660,
         "wires": [
             [
@@ -7025,6 +7572,7 @@
         "id": "8cbe08cea0b26145",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 32",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"No hay bomba habilitada o disponible para encender el loop de distribución (P70-01 y P70-02) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7045,6 +7593,7 @@
         "id": "da6333a56b2353e0",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Rotura de membrana de disco de rutputra (RD-7001)",
@@ -7062,6 +7611,7 @@
         "id": "c2406d318ba41bc5",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7085,6 +7635,7 @@
         "id": "7341a994e2d5c1f7",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 33",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Rotura de membrana de disco de rutputra (RD-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7105,6 +7656,7 @@
         "id": "103b20dade9513ed",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alarma en bomba habilitada para el funcionamiento (P70-01 y P70-02)",
@@ -7122,6 +7674,7 @@
         "id": "79cb6bca9e6312c6",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7145,6 +7698,7 @@
         "id": "8eea6d609145915d",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 34",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma en bomba habilitada para el funcionamiento (P70-01 y P70-02) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7165,6 +7719,7 @@
         "id": "3768325d2f5a9ca5",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en estación remota",
@@ -7182,6 +7737,7 @@
         "id": "70dfbd79fc54bc36",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7205,6 +7761,7 @@
         "id": "08d7d78c24f33a7e",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 35",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en estación remota (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7225,6 +7782,7 @@
         "id": "8dd2fdc7b8923afb",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Baja presión de aire comprimido",
@@ -7242,6 +7800,7 @@
         "id": "9a779ceabf3a8b9a",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7265,6 +7824,7 @@
         "id": "962cb41fbc492678",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 36",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Baja presión de aire comprimido (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7285,6 +7845,7 @@
         "id": "dddb31e0662f2b09",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en guardamotor de bomba 1 (P70-01)",
@@ -7302,6 +7863,7 @@
         "id": "cd52f53389e40238",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7325,6 +7887,7 @@
         "id": "61f349d82f1a94b0",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 37",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en guardamotor de bomba 1 (P70-01) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7345,6 +7908,7 @@
         "id": "5aa09bb121764cb4",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en variador de bomba 1 (P70-01)",
@@ -7362,6 +7926,7 @@
         "id": "84ef43cbe86768a4",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7385,6 +7950,7 @@
         "id": "c498388321789d95",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 38",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en variador de bomba 1 (P70-01) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7405,6 +7971,7 @@
         "id": "54a6155400aff6e7",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en guardamotor de bomba 2 (P70-02)",
@@ -7422,6 +7989,7 @@
         "id": "fd7b7459dbb83199",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7445,6 +8013,7 @@
         "id": "d8ac2819cdbcb051",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 39",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en guardamotor de bomba 2 (P70-02) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7465,6 +8034,7 @@
         "id": "9d5d4de6d023a5e8",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en variador de bomba 2 (P70-02)",
@@ -7482,6 +8052,7 @@
         "id": "433f6d523169e918",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7505,6 +8076,7 @@
         "id": "96ac6d2c45aedc58",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 40",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en variador de bomba 2 (P70-02) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7525,6 +8097,7 @@
         "id": "1dc95a9ee02d255a",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Nivel alto alto de agua en tanque pw (HLT-7101 )",
@@ -7542,6 +8115,7 @@
         "id": "5b1d1dcce491418d",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7565,6 +8139,7 @@
         "id": "b6b7b71fc855915b",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 41",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Nivel alto alto de agua en tanque pw (HLT-7101 ) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7585,6 +8160,7 @@
         "id": "710239bbcfea54e8",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Nivel alto alto de agua en tanque pw (LT-7003)",
@@ -7602,6 +8178,7 @@
         "id": "1aed4c67a06f1ec6",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7625,6 +8202,7 @@
         "id": "c4e799eba90989d1",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 42",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Nivel alto alto de agua en tanque pw (LT-7003) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7645,6 +8223,7 @@
         "id": "0de3c5985e634242",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Baja presión en retorno del loop de distribución (PT-7002)",
@@ -7662,6 +8241,7 @@
         "id": "14966be44510681c",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7685,6 +8265,7 @@
         "id": "67280f83e64b2860",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 43",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Baja presión en retorno del loop de distribución (PT-7002) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7705,6 +8286,7 @@
         "id": "de300d403de3cef7",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alta presión en retorno del loop de distribución (PT-7002)",
@@ -7722,6 +8304,7 @@
         "id": "95a3b4e4e1271585",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7745,6 +8328,7 @@
         "id": "6d61fc1ca6150f79",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 44",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alta presión en retorno del loop de distribución (PT-7002) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7765,6 +8349,7 @@
         "id": "53fea822346be37b",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alto caudal en retorno del loop de distribución (FT-7017)",
@@ -7782,6 +8367,7 @@
         "id": "83dcecac5e9aa95f",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7805,6 +8391,7 @@
         "id": "db74c8bfaa88223e",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 45",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alto caudal en retorno del loop de distribución (FT-7017) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7825,6 +8412,7 @@
         "id": "69e27e98f569925b",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Bajo caudal en retorno del loop de distribución (FT-7017)",
@@ -7842,6 +8430,7 @@
         "id": "b353b4537b938910",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7865,6 +8454,7 @@
         "id": "7e80ab8971742981",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 46",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Bajo caudal en retorno del loop de distribución (FT-7017) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7885,6 +8475,7 @@
         "id": "5987735cc089d54c",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alta presión en salida de bombas del loop de distribución (PT-7001)",
@@ -7902,6 +8493,7 @@
         "id": "78ee715f7d4b0f5a",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7925,6 +8517,7 @@
         "id": "135b02c29c3a2d30",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 47",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alta presión en salida de bombas del loop de distribución (PT-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -7945,6 +8538,7 @@
         "id": "28b7d65af190b155",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Baja presión en salida de bombas del loop de distribución (PT-7001)",
@@ -7962,6 +8556,7 @@
         "id": "042b97c0fb331b5f",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -7985,6 +8580,7 @@
         "id": "f480ccf63c3e7508",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 48",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Baja presión en salida de bombas del loop de distribución (PT-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8005,6 +8601,7 @@
         "id": "683a22afbef82e9f",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en generación de agua PW",
@@ -8022,6 +8619,7 @@
         "id": "d8757f2643cd4e3d",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8045,6 +8643,7 @@
         "id": "93ac6f5d0c1b9ac3",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 49",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en generación de agua PW (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8065,6 +8664,7 @@
         "id": "b4c7565219c2289a",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alta conductividad de agua PW (CT-7001)",
@@ -8082,6 +8682,7 @@
         "id": "a06fc3b2bb1fda3e",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8105,6 +8706,7 @@
         "id": "7242561e6888fc53",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 50",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alta conductividad de agua PW (CT-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8125,6 +8727,7 @@
         "id": "0245d37ec7709a3e",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alto TOC en agua PW (TOC-7001)",
@@ -8142,6 +8745,7 @@
         "id": "b8e4be7de3e59f71",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8165,6 +8769,7 @@
         "id": "5e70ca4bd41b3b86",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 51",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alto TOC en agua PW (TOC-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8185,6 +8790,7 @@
         "id": "69617517a4a4d678",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alto pH en agua PW (PH-7001)",
@@ -8202,6 +8808,7 @@
         "id": "af421677096e7d85",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8225,6 +8832,7 @@
         "id": "21e8efd68c9ade8d",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 52",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alto pH en agua PW (PH-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8245,6 +8853,7 @@
         "id": "0e059baaee70cf39",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alto valor de ozono ambiente (AOA-7001)",
@@ -8262,6 +8871,7 @@
         "id": "6b7c78f1fd978183",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8285,6 +8895,7 @@
         "id": "a8a060a7d45a9691",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 53",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alto valor de ozono ambiente (AOA-7001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8305,6 +8916,7 @@
         "id": "8c35906e258d46b3",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Alta concentración de ozono en la salida de la lámpara UV durante la distribución (AOT-7002)",
@@ -8322,6 +8934,7 @@
         "id": "92c85d44c85af9ee",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8345,6 +8958,7 @@
         "id": "2310d22551cd7cea",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 54",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alta concentración de ozono en la salida de la lámpara UV durante la distribución (AOT-7002) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8365,6 +8979,7 @@
         "id": "4cb926bbba29a727",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Baja concenracion de ozono durante la sanitización PW (AOT-7003)",
@@ -8382,6 +8997,7 @@
         "id": "8bd605966a8f2fc6",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8405,6 +9021,7 @@
         "id": "fc1dc7f464a9dd64",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 55",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Baja concenracion de ozono durante la sanitización PW (AOT-7003) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8425,6 +9042,7 @@
         "id": "65483c28ec9dc1da",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla de alimentación eléctrica_37",
@@ -8442,6 +9060,7 @@
         "id": "f6a28a8fecebf342",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8465,6 +9084,7 @@
         "id": "3b86c2a222b3b588",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 56",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla de alimentación eléctrica_37 (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8485,6 +9105,7 @@
         "id": "2d72b39aadeed2c1",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en equipo de generación de agua PW",
@@ -8502,6 +9123,7 @@
         "id": "5fd09b2646fa9009",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8525,6 +9147,7 @@
         "id": "4ccce80338710718",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 57",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en equipo de generación de agua PW (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8545,6 +9168,7 @@
         "id": "17c540c1da995178",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Falla en generador de ozono (G070-001)",
@@ -8562,6 +9186,7 @@
         "id": "f23674965df62f59",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8585,6 +9210,7 @@
         "id": "236f55f51b01b10d",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 58",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla en generador de ozono (G070-001) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8605,6 +9231,7 @@
         "id": "828793802fa6ed0c",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Nivel bajo bajo de tanque de agua PW (LT-7003)",
@@ -8622,6 +9249,7 @@
         "id": "fc96417987305c90",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8645,6 +9273,7 @@
         "id": "f7f5bf085ae8f43c",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 59",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Nivel bajo bajo de tanque de agua PW (LT-7003) (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8665,6 +9294,7 @@
         "id": "132bebe5b67a8ac5",
         "type": "s7 in",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "endpoint": "841c6ff9cf9ce5eb",
         "mode": "single",
         "variable": "Se alcanzó la cantidad máxima de descartes por agua fuera de especificación",
@@ -8682,6 +9312,7 @@
         "id": "0d60fd1a500fe58a",
         "type": "switch",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "",
         "property": "payload",
         "propertyType": "msg",
@@ -8705,6 +9336,7 @@
         "id": "3a8be265df14a805",
         "type": "function",
         "z": "7f559090ad46a58f",
+        "g": "17acd78eb0c3c9d0",
         "name": "function 60",
         "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Se alcanzó la cantidad máxima de descartes por agua fuera de especificación (Loops)\"\n}\nreturn msg;",
         "outputs": 1,
@@ -8715,6 +9347,5083 @@
         "libs": [],
         "x": 950,
         "y": 2340,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "d353e59bd6323751",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "DB5,X0.0",
+        "diff": true,
+        "name": "Falla Comunicacion HMI",
+        "x": 150,
+        "y": 2460,
+        "wires": [
+            [
+                "5bb855bec475424f"
+            ]
+        ]
+    },
+    {
+        "id": "5bb855bec475424f",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2460,
+        "wires": [
+            [
+                "80cff4ad0754d60a"
+            ]
+        ]
+    },
+    {
+        "id": "80cff4ad0754d60a",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 184",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Comunicacion HMI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2460,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "544a40bdc94319d9",
+        "type": "debug",
+        "z": "7f559090ad46a58f",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1280,
+        "y": 2340,
+        "wires": []
+    },
+    {
+        "id": "63c6f1c8f95efea9",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falta de Fases",
+        "diff": true,
+        "name": "Falta de Fases",
+        "x": 120,
+        "y": 2520,
+        "wires": [
+            [
+                "be34f8fb709f48b2"
+            ]
+        ]
+    },
+    {
+        "id": "be34f8fb709f48b2",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2520,
+        "wires": [
+            [
+                "ff54aeae26ba4532"
+            ]
+        ]
+    },
+    {
+        "id": "ff54aeae26ba4532",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 185",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falta de Fase (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2520,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "dbfc759c79db2e25",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Baja de Aire Comprimido",
+        "diff": true,
+        "name": "Baja de Aire Comprimido",
+        "x": 150,
+        "y": 2580,
+        "wires": [
+            [
+                "eb483dc1ded10225"
+            ]
+        ]
+    },
+    {
+        "id": "eb483dc1ded10225",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2580,
+        "wires": [
+            [
+                "16ec2514214c95d0"
+            ]
+        ]
+    },
+    {
+        "id": "16ec2514214c95d0",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 186",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Baja de Aire Comprimido (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2580,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "db092bd180ea5535",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Parada de Emergencia",
+        "diff": true,
+        "name": "Parada de Emergencia",
+        "x": 140,
+        "y": 2640,
+        "wires": [
+            [
+                "c67a3217823ca62b"
+            ]
+        ]
+    },
+    {
+        "id": "c67a3217823ca62b",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2640,
+        "wires": [
+            [
+                "e45804d618118008"
+            ]
+        ]
+    },
+    {
+        "id": "e45804d618118008",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 187",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Parada de Emergencia (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2640,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "f363b6baef3a5d15",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Parada de Emergencia",
+        "diff": true,
+        "name": "Falla Fusible",
+        "x": 110,
+        "y": 2700,
+        "wires": [
+            [
+                "e19a05913b595980"
+            ]
+        ]
+    },
+    {
+        "id": "ceb6f2fc9ea72357",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Caudalimetro 1",
+        "diff": true,
+        "name": "Falla Caudalimetro 1",
+        "x": 130,
+        "y": 2760,
+        "wires": [
+            [
+                "2c858e07ae77ffba"
+            ]
+        ]
+    },
+    {
+        "id": "4397e4df70cd2c4e",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Caudalimetro 2",
+        "diff": true,
+        "name": "Falla Caudalimetro 2",
+        "x": 130,
+        "y": 2820,
+        "wires": [
+            [
+                "d1fe405f8e0c148f"
+            ]
+        ]
+    },
+    {
+        "id": "c10edc8904c20bd6",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Caudalimetro 3",
+        "diff": true,
+        "name": "Falla Caudalimetro 3",
+        "x": 130,
+        "y": 2880,
+        "wires": [
+            [
+                "bd3064bdd10031dd"
+            ]
+        ]
+    },
+    {
+        "id": "37b50ac75293fa3f",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Caudalimetro 4",
+        "diff": true,
+        "name": "Falla Caudalimetro 4",
+        "x": 130,
+        "y": 2940,
+        "wires": [
+            [
+                "2438d8895c06c42e"
+            ]
+        ]
+    },
+    {
+        "id": "ead7d7fa2c2f0cce",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Caudalimetro 5",
+        "diff": true,
+        "name": "Falla Caudalimetro 5",
+        "x": 130,
+        "y": 3000,
+        "wires": [
+            [
+                "d6dd058449da9a9c"
+            ]
+        ]
+    },
+    {
+        "id": "bfc21362b8d337d6",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Caudalimetro 6",
+        "diff": true,
+        "name": "Falla Caudalimetro 6",
+        "x": 130,
+        "y": 3060,
+        "wires": [
+            [
+                "d37b362effb1727f"
+            ]
+        ]
+    },
+    {
+        "id": "8177fdc407e0622c",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Carga Sanitizante CIP Quimico",
+        "diff": true,
+        "name": "Alarma Carga Sanitizante CIP Quimico",
+        "x": 190,
+        "y": 3120,
+        "wires": [
+            [
+                "8f0dcc91d3c26879"
+            ]
+        ]
+    },
+    {
+        "id": "ecea3695eb191f08",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Conductividad",
+        "diff": true,
+        "name": "Alarma Conductividad",
+        "x": 140,
+        "y": 3180,
+        "wires": [
+            [
+                "8aa504d223536cc6"
+            ]
+        ]
+    },
+    {
+        "id": "8291a03bc9351891",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma de ORP",
+        "diff": true,
+        "name": "Alarma de ORP",
+        "x": 120,
+        "y": 3240,
+        "wires": [
+            [
+                "8ff2fac1897114ff"
+            ]
+        ]
+    },
+    {
+        "id": "a0db222c1d5ccfbd",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alta Conductividad EDIC",
+        "diff": true,
+        "name": "Alta Conductividad EDIC",
+        "x": 150,
+        "y": 3300,
+        "wires": [
+            [
+                "fda65f75181d924a"
+            ]
+        ]
+    },
+    {
+        "id": "40a46736d94d1c59",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Temperatura Minima de OI",
+        "diff": true,
+        "name": "Temperatura Minima de OI",
+        "x": 150,
+        "y": 3360,
+        "wires": [
+            [
+                "935938e5b945e47c"
+            ]
+        ]
+    },
+    {
+        "id": "e64c8ad2cf1397d1",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Temperatura PreTratamiento",
+        "diff": true,
+        "name": "Alarma Temperatura PreTratamiento",
+        "x": 180,
+        "y": 3420,
+        "wires": [
+            [
+                "0d9a33848d6b4250"
+            ]
+        ]
+    },
+    {
+        "id": "91ecf52e69b5ce94",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Alta Temperatura Control CIP",
+        "diff": true,
+        "name": "Alarma Alta Temperatura Control CIP",
+        "x": 180,
+        "y": 3480,
+        "wires": [
+            [
+                "20ce7253a0e50b31"
+            ]
+        ]
+    },
+    {
+        "id": "7f8de11e9877357b",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Maxima Temperatura Retorno CIP",
+        "diff": true,
+        "name": "Maxima Temperatura Retorno CIP",
+        "x": 180,
+        "y": 3540,
+        "wires": [
+            [
+                "e8aba3b28277a23e"
+            ]
+        ]
+    },
+    {
+        "id": "8b969b4b45a104d9",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Dureza de Alimentacion",
+        "diff": true,
+        "name": "Falla Dureza de Alimentacion",
+        "x": 160,
+        "y": 3600,
+        "wires": [
+            [
+                "26f313fa9ac18979"
+            ]
+        ]
+    },
+    {
+        "id": "472707382c855578",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Temeratura Disipador SSR",
+        "diff": true,
+        "name": "Falla Temeratura Disipador SSR",
+        "x": 170,
+        "y": 3660,
+        "wires": [
+            [
+                "d519f23c720eb0af"
+            ]
+        ]
+    },
+    {
+        "id": "b944c9987c0a9eca",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla  Bomba Dosificadora de Quimico",
+        "diff": true,
+        "name": "Falla  Bomba Dosificadora de Quimico",
+        "x": 190,
+        "y": 3720,
+        "wires": [
+            [
+                "58af03799685e0cd"
+            ]
+        ]
+    },
+    {
+        "id": "3747b8502e1083c6",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Flujo de Alimentacion",
+        "diff": true,
+        "name": "Falla Flujo de Alimentacion",
+        "x": 150,
+        "y": 3780,
+        "wires": [
+            [
+                "f2203d1c359e4d95"
+            ]
+        ]
+    },
+    {
+        "id": "555b300125d932c0",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Bajo Nivel Tanque de Soda",
+        "diff": true,
+        "name": "Bajo Nivel Tanque de Soda",
+        "x": 150,
+        "y": 3840,
+        "wires": [
+            [
+                "49908a9ef1c80963"
+            ]
+        ]
+    },
+    {
+        "id": "1e6df00bd37e308c",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Bajo Nivel Reductor",
+        "diff": true,
+        "name": "Bajo Nivel Reductor",
+        "x": 130,
+        "y": 3900,
+        "wires": [
+            [
+                "bfd880cb59d80480"
+            ]
+        ]
+    },
+    {
+        "id": "e7f33549a29b868a",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Bajo Nivel Tanque CIP",
+        "diff": true,
+        "name": "Bajo Nivel Tanque CIP",
+        "x": 140,
+        "y": 3960,
+        "wires": [
+            [
+                "c561f5b8a4734845"
+            ]
+        ]
+    },
+    {
+        "id": "5b5721cd9a243807",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alto Nivel Tanque CIP",
+        "diff": true,
+        "name": "Alto Nivel Tanque CIP",
+        "x": 140,
+        "y": 4020,
+        "wires": [
+            [
+                "f2c2a08f1323bcda"
+            ]
+        ]
+    },
+    {
+        "id": "5b8cbdcf7634ca4a",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Flujo de contra Lavado",
+        "diff": true,
+        "name": "Falla Flujo de contra Lavado",
+        "x": 160,
+        "y": 4080,
+        "wires": [
+            [
+                "2987df9c8ac7a3ee"
+            ]
+        ]
+    },
+    {
+        "id": "2d3e861ea1a31204",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Bajo Nivel Equipo CIP",
+        "diff": true,
+        "name": "Bajo Nivel Equipo CIP",
+        "x": 140,
+        "y": 4140,
+        "wires": [
+            [
+                "4fb1a2b08becab1c"
+            ]
+        ]
+    },
+    {
+        "id": "7fe4cbfc3fca9b4e",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Caudal de Entrada",
+        "diff": true,
+        "name": "Alarma Caudal de Entrada",
+        "x": 150,
+        "y": 4200,
+        "wires": [
+            [
+                "1ab8a9118e83b6cf"
+            ]
+        ]
+    },
+    {
+        "id": "bae68f1ac1b633ec",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Caudal Minimo de Concentrado",
+        "diff": true,
+        "name": "Alarma Caudal Minimo de Concentrado",
+        "x": 190,
+        "y": 4260,
+        "wires": [
+            [
+                "c75f4488252c7448"
+            ]
+        ]
+    },
+    {
+        "id": "5825461d167aae02",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba CIP",
+        "diff": true,
+        "name": "Falla Bomba CIP",
+        "x": 120,
+        "y": 4320,
+        "wires": [
+            [
+                "d1425340284247f4"
+            ]
+        ]
+    },
+    {
+        "id": "bd9888cff144ce9d",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Caudal Minimo de Electrodo",
+        "diff": true,
+        "name": "Caudal Minimo de Electrodo",
+        "x": 160,
+        "y": 4380,
+        "wires": [
+            [
+                "d2ee947147d466f7"
+            ]
+        ]
+    },
+    {
+        "id": "444010dfca4d9a6b",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Retorno de CIP",
+        "diff": true,
+        "name": "Alarma Retorno de CIP",
+        "x": 140,
+        "y": 4440,
+        "wires": [
+            [
+                "1f31b959650424db"
+            ]
+        ]
+    },
+    {
+        "id": "a53026970d61583c",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Control CIP",
+        "diff": true,
+        "name": "Alarma Control CIP",
+        "x": 130,
+        "y": 4500,
+        "wires": [
+            [
+                "8db38cffece91e13"
+            ]
+        ]
+    },
+    {
+        "id": "fafe3a82ad97696a",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "AltaTemperatura para Producir",
+        "diff": true,
+        "name": "Alta Temperatura para Producir",
+        "x": 170,
+        "y": 4560,
+        "wires": [
+            [
+                "aea5d58c20d56882"
+            ]
+        ]
+    },
+    {
+        "id": "815f1c2776526cdd",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Minimo Caudal de Entrada",
+        "diff": true,
+        "name": "Alarma Minimo Caudal de Entrada",
+        "x": 180,
+        "y": 4620,
+        "wires": [
+            [
+                "c9fb6949f62290d4"
+            ]
+        ]
+    },
+    {
+        "id": "2112ee018aea5cac",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Temperatura Minima de Producto",
+        "diff": true,
+        "name": "Alarma Temperatura Minima de Producto",
+        "x": 200,
+        "y": 4680,
+        "wires": [
+            [
+                "bc06b13a984a11b9"
+            ]
+        ]
+    },
+    {
+        "id": "38fb6ed29208664c",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma recuperacion Baja",
+        "diff": true,
+        "name": "Alarma recuperacion Baja",
+        "x": 150,
+        "y": 4740,
+        "wires": [
+            [
+                "6f7c047177abf32f"
+            ]
+        ]
+    },
+    {
+        "id": "8a77d24804bf264f",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma recuperacion Alta",
+        "diff": true,
+        "name": "Alarma recuperacion Alta",
+        "x": 150,
+        "y": 4800,
+        "wires": [
+            [
+                "558cacdd825cfbb6"
+            ]
+        ]
+    },
+    {
+        "id": "6c83fde6f1306e06",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba Alimebtacion",
+        "diff": true,
+        "name": "Falla Bomba Alimentacion",
+        "x": 150,
+        "y": 4860,
+        "wires": [
+            [
+                "3122e3afb0cb5d03"
+            ]
+        ]
+    },
+    {
+        "id": "5c04d8df52eade7e",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alta Presion de Bomba",
+        "diff": true,
+        "name": "Alta Presion de Bomba",
+        "x": 140,
+        "y": 4920,
+        "wires": [
+            [
+                "e6373354cea699e7"
+            ]
+        ]
+    },
+    {
+        "id": "2636a10a0f4f6c7c",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba CIP",
+        "diff": true,
+        "name": "Falla Bomba de CIP",
+        "x": 130,
+        "y": 4980,
+        "wires": [
+            [
+                "e6ccbe6c0496d902"
+            ]
+        ]
+    },
+    {
+        "id": "66ae7186046065e1",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba de Alimentacion Accionada",
+        "diff": true,
+        "name": "Falla Bomba de Alimentacion Accionada",
+        "x": 190,
+        "y": 5040,
+        "wires": [
+            [
+                "60918c5183be0a7f"
+            ]
+        ]
+    },
+    {
+        "id": "3243457ba622621c",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba de Alta Presion",
+        "diff": true,
+        "name": "Falla Bomba de Alta Presion",
+        "x": 160,
+        "y": 5100,
+        "wires": [
+            [
+                "6668ca8cfe9d4a99"
+            ]
+        ]
+    },
+    {
+        "id": "a8793c7c3bb89edf",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba de CIP Accionada",
+        "diff": true,
+        "name": "Falla Bomba de CIP Accionada",
+        "x": 170,
+        "y": 5160,
+        "wires": [
+            [
+                "be95293c0eee8887"
+            ]
+        ]
+    },
+    {
+        "id": "15f0a0e10b4b74d3",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba de CIP Accionada",
+        "diff": true,
+        "name": "Falla Bomba EDI",
+        "x": 120,
+        "y": 5220,
+        "wires": [
+            [
+                "bcdc96f9cc407727"
+            ]
+        ]
+    },
+    {
+        "id": "1c4d0fcf02693455",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba EDI Accionada",
+        "diff": true,
+        "name": "Falla Bomba EDI Accionada",
+        "x": 160,
+        "y": 5280,
+        "wires": [
+            [
+                "3f7c8bfd5a3ebdec"
+            ]
+        ]
+    },
+    {
+        "id": "b68ff24a9b279e6b",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla EDI",
+        "diff": true,
+        "name": "Falla EDI",
+        "x": 100,
+        "y": 5340,
+        "wires": [
+            [
+                "dde9174646cc1e58"
+            ]
+        ]
+    },
+    {
+        "id": "77fb2aef41c0461a",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion  Maxima de Salida Bomba CIP",
+        "diff": true,
+        "name": "Falla Presion  Maxima de Salida Bomba CIP",
+        "x": 210,
+        "y": 5400,
+        "wires": [
+            [
+                "9c4fe7e980ac9758"
+            ]
+        ]
+    },
+    {
+        "id": "859b8a9413399b6f",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Temperatura Baja Presion",
+        "diff": true,
+        "name": "Falla Temperatura Baja Presion",
+        "x": 170,
+        "y": 5460,
+        "wires": [
+            [
+                "bb57b11bfecb2113"
+            ]
+        ]
+    },
+    {
+        "id": "28ab6d142d354b20",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion de salida minima Bomba CIP",
+        "diff": true,
+        "name": "Falla Presion de salida minima Bomba CIP",
+        "x": 200,
+        "y": 5520,
+        "wires": [
+            [
+                "7f75685e42c6a18e"
+            ]
+        ]
+    },
+    {
+        "id": "b0ee65b86258bf13",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Bajo Nivel Tanque Anticrustante",
+        "diff": true,
+        "name": "Bajo Nivel Tanque Anticrustante",
+        "x": 170,
+        "y": 5580,
+        "wires": [
+            [
+                "c44cb3beb0241c33"
+            ]
+        ]
+    },
+    {
+        "id": "b3e1f95168d78f1d",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Ablandador no Regenerando",
+        "diff": true,
+        "name": " Ablandador no Regenerando",
+        "x": 160,
+        "y": 5640,
+        "wires": [
+            [
+                "5a4621453076feea"
+            ]
+        ]
+    },
+    {
+        "id": "ab102e686a8e70fe",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Ablandadores",
+        "diff": true,
+        "name": " Falla Ablandadores",
+        "x": 130,
+        "y": 5700,
+        "wires": [
+            [
+                "46feadda42341b66"
+            ]
+        ]
+    },
+    {
+        "id": "5ce7d7f004bd438a",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion  Entrada Bomba EDI",
+        "diff": true,
+        "name": "Falla Presion  Entrada Bomba EDI",
+        "x": 170,
+        "y": 5760,
+        "wires": [
+            [
+                "20f2ef4d747eb6a2"
+            ]
+        ]
+    },
+    {
+        "id": "829d450e93fa89f4",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion Minima EDI",
+        "diff": true,
+        "name": "Falla Presion Minima EDI",
+        "x": 150,
+        "y": 5820,
+        "wires": [
+            [
+                "dffcd6b9082edfc2"
+            ]
+        ]
+    },
+    {
+        "id": "81e4ae846213c2c8",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion Maxima Salida Presion EDI",
+        "diff": true,
+        "name": "Falla Presion Maxima Salida Presion EDI",
+        "x": 200,
+        "y": 5880,
+        "wires": [
+            [
+                "aa60fed24dc09fae"
+            ]
+        ]
+    },
+    {
+        "id": "333cebf2c05b9c7a",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion MInma Salida Bomba CIP",
+        "diff": true,
+        "name": "Falla Presion MInma Salida Bomba CIP",
+        "x": 190,
+        "y": 5940,
+        "wires": [
+            [
+                "3193cc8f434cdb94"
+            ]
+        ]
+    },
+    {
+        "id": "a6280a94a366b1ce",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba Alta Presion",
+        "diff": true,
+        "name": "Falla Bomba Alta Presion",
+        "x": 150,
+        "y": 6000,
+        "wires": [
+            [
+                "bdfe4dfcb9f409d1"
+            ]
+        ]
+    },
+    {
+        "id": "2035b7d5733fa55f",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Bomba Baja Presion",
+        "diff": true,
+        "name": "Falla Bomba Baja Presion",
+        "x": 150,
+        "y": 6060,
+        "wires": [
+            [
+                "76ab64306117ae7c"
+            ]
+        ]
+    },
+    {
+        "id": "b2abbb58276ddf85",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Alta Presion Salida Bomba CIP",
+        "diff": true,
+        "name": "Falla Alta Presion Salida Bomba CIP",
+        "x": 180,
+        "y": 6120,
+        "wires": [
+            [
+                "03948035b981bee1"
+            ]
+        ]
+    },
+    {
+        "id": "a08977cc1ea12519",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion Minima Bomba CIP",
+        "diff": true,
+        "name": "Falla Presion Minima Bomba CIP",
+        "x": 170,
+        "y": 6180,
+        "wires": [
+            [
+                "1aac05f2ccf9b018"
+            ]
+        ]
+    },
+    {
+        "id": "2f4b82cdd27cc01a",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Presion minima Bomba Alta",
+        "diff": true,
+        "name": "Alarma Presion minima Bomba Alta",
+        "x": 180,
+        "y": 6240,
+        "wires": [
+            [
+                "0a5050b83acfb176"
+            ]
+        ]
+    },
+    {
+        "id": "a77ac1da5f783254",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Presion Maxima Entrada Menbrana",
+        "diff": true,
+        "name": "Alarma Presion Maxima Entrada Menbrana",
+        "x": 200,
+        "y": 6300,
+        "wires": [
+            [
+                "9f16fd840e55da66"
+            ]
+        ]
+    },
+    {
+        "id": "630e785f3e7c4535",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Maxima Presion Salida Bomba CIP",
+        "diff": true,
+        "name": "Alarma Maxima Presion Salida Bomba CIP",
+        "x": 200,
+        "y": 6360,
+        "wires": [
+            [
+                "d9f480af4fc7404d"
+            ]
+        ]
+    },
+    {
+        "id": "d6d49d08f78e2531",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Alta Presion Alimentacion",
+        "diff": true,
+        "name": "Falla Alta Presion Alimentacion",
+        "x": 170,
+        "y": 6420,
+        "wires": [
+            [
+                "30615755ecac0f31"
+            ]
+        ]
+    },
+    {
+        "id": "f451133b0d6549cf",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Presion de Salida",
+        "diff": true,
+        "name": "Falla Presion de Salida",
+        "x": 140,
+        "y": 6480,
+        "wires": [
+            [
+                "1820fb623352ea59"
+            ]
+        ]
+    },
+    {
+        "id": "ee11061070827c97",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Presion Maxima Entrada EDI",
+        "diff": true,
+        "name": "Presion Maxima Entrada EDI",
+        "x": 160,
+        "y": 6540,
+        "wires": [
+            [
+                "4cfda58a52bca955"
+            ]
+        ]
+    },
+    {
+        "id": "9bf37549a4a8e5cc",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Presion Minima Salida CIP",
+        "diff": true,
+        "name": "Presion Minima Salida CIP",
+        "x": 150,
+        "y": 6600,
+        "wires": [
+            [
+                "9a5b0dfaeca4b049"
+            ]
+        ]
+    },
+    {
+        "id": "78261d2be2fc2581",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Bajo Nivel Tanque Cloro",
+        "diff": true,
+        "name": "Bajo Nivel Tanque Cloro",
+        "x": 140,
+        "y": 6660,
+        "wires": [
+            [
+                "0da92ae4f0f27dcc"
+            ]
+        ]
+    },
+    {
+        "id": "a3af929606b9cc11",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Mal Funcionmiento Caudalimetro 1",
+        "diff": true,
+        "name": "Mal Funcionmiento Caudalimetro 1",
+        "x": 180,
+        "y": 6720,
+        "wires": [
+            [
+                "1e7c433815620f72"
+            ]
+        ]
+    },
+    {
+        "id": "dcc329cac010ba31",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Mal Funcionmiento Caudalimetro 2",
+        "diff": true,
+        "name": "Mal Funcionmiento Caudalimetro 2",
+        "x": 180,
+        "y": 6780,
+        "wires": [
+            [
+                "11cad7fa9ca7772a"
+            ]
+        ]
+    },
+    {
+        "id": "ea55f89c971ed216",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Mal Funcionmiento Caudalimetro 3",
+        "diff": true,
+        "name": "Mal Funcionmiento Caudalimetro 3",
+        "x": 180,
+        "y": 6840,
+        "wires": [
+            [
+                "bf5a8f05554b2d6c"
+            ]
+        ]
+    },
+    {
+        "id": "d27776367c571dea",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Mal Funcionmiento Caudalimetro 4",
+        "diff": true,
+        "name": "Mal Funcionmiento Caudalimetro 4",
+        "x": 180,
+        "y": 6900,
+        "wires": [
+            [
+                "03a3f72a38ab3574"
+            ]
+        ]
+    },
+    {
+        "id": "cf66ac094cfeb5b2",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Mal Funcionmiento Caudalimetro 5",
+        "diff": true,
+        "name": "Mal Funcionmiento Caudalimetro 5",
+        "x": 180,
+        "y": 6960,
+        "wires": [
+            [
+                "4241f8d6c8342c59"
+            ]
+        ]
+    },
+    {
+        "id": "42d3646e9c03a956",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Mal Funcionmiento Caudalimetro 6",
+        "diff": true,
+        "name": "Mal Funcionmiento Caudalimetro 6",
+        "x": 180,
+        "y": 7020,
+        "wires": [
+            [
+                "6bd4f8e38011ce7b"
+            ]
+        ]
+    },
+    {
+        "id": "fdcdb8caa9c879b5",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Temperatura de Retorno",
+        "diff": true,
+        "name": "Falla Temperatura de Retorno",
+        "x": 160,
+        "y": 7080,
+        "wires": [
+            [
+                "f28c4f054849276b"
+            ]
+        ]
+    },
+    {
+        "id": "d998d256755219e6",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Alto PH de Alimentacion",
+        "diff": true,
+        "name": "Alarma Alto PH de Alimentacion",
+        "x": 170,
+        "y": 7140,
+        "wires": [
+            [
+                "f58b8525d0ce6270"
+            ]
+        ]
+    },
+    {
+        "id": "e109fae58d6c8c27",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Bajo PH de Alimentacion",
+        "diff": true,
+        "name": "Alarma Bajo PH de Alimentacion",
+        "x": 170,
+        "y": 7200,
+        "wires": [
+            [
+                "51b787c5898e797b"
+            ]
+        ]
+    },
+    {
+        "id": "2a80d20f5dea80cf",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Diferencia de Presion Microfiltros",
+        "diff": true,
+        "name": "Diferencia de Presion Microfiltros",
+        "x": 170,
+        "y": 7260,
+        "wires": [
+            [
+                "bdb18813a37dfcc5"
+            ]
+        ]
+    },
+    {
+        "id": "5222c43bf9931a9b",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Falla Multimedia Contra Lavado",
+        "diff": true,
+        "name": "Falla Multimedia Contra Lavado",
+        "x": 170,
+        "y": 7320,
+        "wires": [
+            [
+                "da23d01bf672c0af"
+            ]
+        ]
+    },
+    {
+        "id": "8598d8be9ad50ffe",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Alarma Recuperacion Alta EDI",
+        "diff": true,
+        "name": "Alarma Recuperacion Alta EDI",
+        "x": 160,
+        "y": 7380,
+        "wires": [
+            [
+                "b72df2d2b24f1747"
+            ]
+        ]
+    },
+    {
+        "id": "7d004da8bc0765e2",
+        "type": "s7 in",
+        "z": "7f559090ad46a58f",
+        "endpoint": "d39a119cf4d2cf8c",
+        "mode": "single",
+        "variable": "Conductividad Alta Alimentacion",
+        "diff": true,
+        "name": "Conductividad Alta Alimentacion",
+        "x": 170,
+        "y": 7440,
+        "wires": [
+            [
+                "6cea5d6d130089a8"
+            ]
+        ]
+    },
+    {
+        "id": "e19a05913b595980",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2700,
+        "wires": [
+            [
+                "ee327bf1a6f059e0"
+            ]
+        ]
+    },
+    {
+        "id": "2c858e07ae77ffba",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2760,
+        "wires": [
+            [
+                "4e5bf5a5072a8fdc"
+            ]
+        ]
+    },
+    {
+        "id": "d1fe405f8e0c148f",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2820,
+        "wires": [
+            [
+                "dc8e23ebad70cba5"
+            ]
+        ]
+    },
+    {
+        "id": "bd3064bdd10031dd",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2880,
+        "wires": [
+            [
+                "2154cc16d0ed0a28"
+            ]
+        ]
+    },
+    {
+        "id": "2438d8895c06c42e",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 2940,
+        "wires": [
+            [
+                "cb6f13dc0ef35852"
+            ]
+        ]
+    },
+    {
+        "id": "d6dd058449da9a9c",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3000,
+        "wires": [
+            [
+                "27be50f50669574d"
+            ]
+        ]
+    },
+    {
+        "id": "d37b362effb1727f",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3060,
+        "wires": [
+            [
+                "be3ed0400ef07d6b"
+            ]
+        ]
+    },
+    {
+        "id": "8f0dcc91d3c26879",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3120,
+        "wires": [
+            [
+                "f8a73ac84027135f"
+            ]
+        ]
+    },
+    {
+        "id": "8aa504d223536cc6",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3180,
+        "wires": [
+            [
+                "6f539c2ceb468c55"
+            ]
+        ]
+    },
+    {
+        "id": "8ff2fac1897114ff",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3240,
+        "wires": [
+            [
+                "e5cfbab913f1ea2b"
+            ]
+        ]
+    },
+    {
+        "id": "fda65f75181d924a",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3300,
+        "wires": [
+            [
+                "48cdbccc2bb62a64"
+            ]
+        ]
+    },
+    {
+        "id": "935938e5b945e47c",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3360,
+        "wires": [
+            [
+                "43e341bbce8d48d6"
+            ]
+        ]
+    },
+    {
+        "id": "0d9a33848d6b4250",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3420,
+        "wires": [
+            [
+                "cc2651917d56642c"
+            ]
+        ]
+    },
+    {
+        "id": "20ce7253a0e50b31",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3480,
+        "wires": [
+            [
+                "4a38d6a2456bb934"
+            ]
+        ]
+    },
+    {
+        "id": "e8aba3b28277a23e",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3540,
+        "wires": [
+            [
+                "7c255b463cbf3f4f"
+            ]
+        ]
+    },
+    {
+        "id": "26f313fa9ac18979",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3600,
+        "wires": [
+            [
+                "f939a9284f168513"
+            ]
+        ]
+    },
+    {
+        "id": "d519f23c720eb0af",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3660,
+        "wires": [
+            [
+                "eae37d3bf6459158"
+            ]
+        ]
+    },
+    {
+        "id": "58af03799685e0cd",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3720,
+        "wires": [
+            [
+                "fecd8befd10e48a1"
+            ]
+        ]
+    },
+    {
+        "id": "f2203d1c359e4d95",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3780,
+        "wires": [
+            [
+                "326a419cfa561e79"
+            ]
+        ]
+    },
+    {
+        "id": "49908a9ef1c80963",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3840,
+        "wires": [
+            [
+                "91c466a4b68c7805"
+            ]
+        ]
+    },
+    {
+        "id": "bfd880cb59d80480",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3900,
+        "wires": [
+            [
+                "aac5b9e78b31e896"
+            ]
+        ]
+    },
+    {
+        "id": "c561f5b8a4734845",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 3960,
+        "wires": [
+            [
+                "e9bf10486ae07a4a"
+            ]
+        ]
+    },
+    {
+        "id": "f2c2a08f1323bcda",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4020,
+        "wires": [
+            [
+                "71aa77d386d26be0"
+            ]
+        ]
+    },
+    {
+        "id": "2987df9c8ac7a3ee",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4080,
+        "wires": [
+            [
+                "dc46c0ec9563d309"
+            ]
+        ]
+    },
+    {
+        "id": "4fb1a2b08becab1c",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4140,
+        "wires": [
+            [
+                "a2c38d1cc2468666"
+            ]
+        ]
+    },
+    {
+        "id": "1ab8a9118e83b6cf",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4200,
+        "wires": [
+            [
+                "744d1def4554ec92"
+            ]
+        ]
+    },
+    {
+        "id": "c75f4488252c7448",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4260,
+        "wires": [
+            [
+                "f89ebd3731b905ab"
+            ]
+        ]
+    },
+    {
+        "id": "d1425340284247f4",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4320,
+        "wires": [
+            [
+                "6ae7fb251a71851e"
+            ]
+        ]
+    },
+    {
+        "id": "d2ee947147d466f7",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4380,
+        "wires": [
+            [
+                "4f82c186a88c105f"
+            ]
+        ]
+    },
+    {
+        "id": "1f31b959650424db",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4440,
+        "wires": [
+            [
+                "554bec7b39746360"
+            ]
+        ]
+    },
+    {
+        "id": "8db38cffece91e13",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4500,
+        "wires": [
+            [
+                "6591fc082f4db2dd"
+            ]
+        ]
+    },
+    {
+        "id": "aea5d58c20d56882",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4560,
+        "wires": [
+            [
+                "272fa7700062f333"
+            ]
+        ]
+    },
+    {
+        "id": "c9fb6949f62290d4",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4620,
+        "wires": [
+            [
+                "cd58d6b5fa9d4758"
+            ]
+        ]
+    },
+    {
+        "id": "bc06b13a984a11b9",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4680,
+        "wires": [
+            [
+                "ec128bae361309ce"
+            ]
+        ]
+    },
+    {
+        "id": "6f7c047177abf32f",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4740,
+        "wires": [
+            [
+                "1a09ac11c9aacba2"
+            ]
+        ]
+    },
+    {
+        "id": "558cacdd825cfbb6",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4800,
+        "wires": [
+            [
+                "980fcf791c8cd32b"
+            ]
+        ]
+    },
+    {
+        "id": "dc644812e9871f32",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3122e3afb0cb5d03",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4860,
+        "wires": [
+            [
+                "cde7f84259dd7ae1"
+            ]
+        ]
+    },
+    {
+        "id": "e6373354cea699e7",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4920,
+        "wires": [
+            [
+                "54be97a5eb9f0c76"
+            ]
+        ]
+    },
+    {
+        "id": "e6ccbe6c0496d902",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 4980,
+        "wires": [
+            [
+                "48b39ac680b94b06"
+            ]
+        ]
+    },
+    {
+        "id": "60918c5183be0a7f",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5040,
+        "wires": [
+            [
+                "0ec28a558f6db1a9"
+            ]
+        ]
+    },
+    {
+        "id": "6668ca8cfe9d4a99",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 731,
+        "y": 5098,
+        "wires": [
+            [
+                "f7e0f83a3f0b7731"
+            ]
+        ]
+    },
+    {
+        "id": "be95293c0eee8887",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5160,
+        "wires": [
+            [
+                "db974f338ed15cb3"
+            ]
+        ]
+    },
+    {
+        "id": "bcdc96f9cc407727",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5220,
+        "wires": [
+            [
+                "894b6d8d0fdae7dd"
+            ]
+        ]
+    },
+    {
+        "id": "3f7c8bfd5a3ebdec",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5280,
+        "wires": [
+            [
+                "9585327fb32d5a7d"
+            ]
+        ]
+    },
+    {
+        "id": "dde9174646cc1e58",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5340,
+        "wires": [
+            [
+                "dfab2e7d312898d5"
+            ]
+        ]
+    },
+    {
+        "id": "9c4fe7e980ac9758",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5400,
+        "wires": [
+            [
+                "3f0cee58046f8fed"
+            ]
+        ]
+    },
+    {
+        "id": "bb57b11bfecb2113",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5460,
+        "wires": [
+            [
+                "254f5f385e738256"
+            ]
+        ]
+    },
+    {
+        "id": "7f75685e42c6a18e",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5520,
+        "wires": [
+            [
+                "e2bb0c4a27a20bc4"
+            ]
+        ]
+    },
+    {
+        "id": "c44cb3beb0241c33",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5580,
+        "wires": [
+            [
+                "d472c0fbe52aad98"
+            ]
+        ]
+    },
+    {
+        "id": "5a4621453076feea",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5640,
+        "wires": [
+            [
+                "ce62295ad56a7493"
+            ]
+        ]
+    },
+    {
+        "id": "46feadda42341b66",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5700,
+        "wires": [
+            [
+                "e207029d2dc199a0"
+            ]
+        ]
+    },
+    {
+        "id": "20f2ef4d747eb6a2",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5760,
+        "wires": [
+            [
+                "6e3fda700e9efa3b"
+            ]
+        ]
+    },
+    {
+        "id": "dffcd6b9082edfc2",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5820,
+        "wires": [
+            [
+                "1a42091eddf26a77"
+            ]
+        ]
+    },
+    {
+        "id": "aa60fed24dc09fae",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5880,
+        "wires": [
+            [
+                "bfb149c08eb9c736"
+            ]
+        ]
+    },
+    {
+        "id": "3193cc8f434cdb94",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 5940,
+        "wires": [
+            [
+                "b2c77994c02f8bbc"
+            ]
+        ]
+    },
+    {
+        "id": "bdfe4dfcb9f409d1",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6000,
+        "wires": [
+            [
+                "f17fdb5a3312705d"
+            ]
+        ]
+    },
+    {
+        "id": "76ab64306117ae7c",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6060,
+        "wires": [
+            [
+                "ce0404be68b0cf01"
+            ]
+        ]
+    },
+    {
+        "id": "03948035b981bee1",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 734,
+        "y": 6119,
+        "wires": [
+            [
+                "f1faba124c7087fe"
+            ]
+        ]
+    },
+    {
+        "id": "1aac05f2ccf9b018",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6180,
+        "wires": [
+            [
+                "3d9efe727219e5f6"
+            ]
+        ]
+    },
+    {
+        "id": "0a5050b83acfb176",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6240,
+        "wires": [
+            [
+                "78958f8d4ee28af9"
+            ]
+        ]
+    },
+    {
+        "id": "9f16fd840e55da66",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6300,
+        "wires": [
+            [
+                "4bdf57fe5625d88f"
+            ]
+        ]
+    },
+    {
+        "id": "d9f480af4fc7404d",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6360,
+        "wires": [
+            [
+                "5e93a07cabe31b8e"
+            ]
+        ]
+    },
+    {
+        "id": "30615755ecac0f31",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6420,
+        "wires": [
+            [
+                "02b1835cdfaf163a"
+            ]
+        ]
+    },
+    {
+        "id": "1820fb623352ea59",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6480,
+        "wires": [
+            [
+                "0106db11c77a92f2"
+            ]
+        ]
+    },
+    {
+        "id": "4cfda58a52bca955",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6540,
+        "wires": [
+            [
+                "1af7da32c29c41f6"
+            ]
+        ]
+    },
+    {
+        "id": "9a5b0dfaeca4b049",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6600,
+        "wires": [
+            [
+                "a4cc331cc672baa2"
+            ]
+        ]
+    },
+    {
+        "id": "0da92ae4f0f27dcc",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6660,
+        "wires": [
+            [
+                "1e4a483d651bc0b1"
+            ]
+        ]
+    },
+    {
+        "id": "1e7c433815620f72",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6720,
+        "wires": [
+            [
+                "578abb4a01749916"
+            ]
+        ]
+    },
+    {
+        "id": "11cad7fa9ca7772a",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6780,
+        "wires": [
+            [
+                "b1ec999aa35ee3f4"
+            ]
+        ]
+    },
+    {
+        "id": "bf5a8f05554b2d6c",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6840,
+        "wires": [
+            [
+                "6699ffd92c11e5bd"
+            ]
+        ]
+    },
+    {
+        "id": "03a3f72a38ab3574",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6900,
+        "wires": [
+            [
+                "434b6e25cdc4797e"
+            ]
+        ]
+    },
+    {
+        "id": "4241f8d6c8342c59",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 6960,
+        "wires": [
+            [
+                "538dd9e98d8cbf64"
+            ]
+        ]
+    },
+    {
+        "id": "6bd4f8e38011ce7b",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7020,
+        "wires": [
+            [
+                "e4876c6dbaefd7b7"
+            ]
+        ]
+    },
+    {
+        "id": "f28c4f054849276b",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7080,
+        "wires": [
+            [
+                "1275b108729b960b"
+            ]
+        ]
+    },
+    {
+        "id": "f58b8525d0ce6270",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7140,
+        "wires": [
+            [
+                "e554c5bccd4a5c39"
+            ]
+        ]
+    },
+    {
+        "id": "51b787c5898e797b",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7200,
+        "wires": [
+            [
+                "5fb965a8f2bd8a46"
+            ]
+        ]
+    },
+    {
+        "id": "bdb18813a37dfcc5",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7260,
+        "wires": [
+            [
+                "48caf5bbfebbbf21"
+            ]
+        ]
+    },
+    {
+        "id": "da23d01bf672c0af",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7320,
+        "wires": [
+            [
+                "a1b4db7d683e5d16"
+            ]
+        ]
+    },
+    {
+        "id": "b72df2d2b24f1747",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7380,
+        "wires": [
+            [
+                "2214ce73908d16b5"
+            ]
+        ]
+    },
+    {
+        "id": "6cea5d6d130089a8",
+        "type": "switch",
+        "z": "7f559090ad46a58f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 730,
+        "y": 7440,
+        "wires": [
+            [
+                "c4553b3c899cf190"
+            ]
+        ]
+    },
+    {
+        "id": "ee327bf1a6f059e0",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 188",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Fusible (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2700,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "4e5bf5a5072a8fdc",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 189",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Caudalimetro 1 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2760,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "dc8e23ebad70cba5",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 190",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Caudalimetro 2 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2820,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "2154cc16d0ed0a28",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 191",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Caudalimetro 3 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2880,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "cb6f13dc0ef35852",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 192",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Caudalimetro 4 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 2940,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "27be50f50669574d",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 193",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Caudalimetro 5 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3000,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "be3ed0400ef07d6b",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 194",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Caudalimetro 6 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3060,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "f8a73ac84027135f",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 195",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Carga Sanitizante CIP Quimico (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3120,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "6f539c2ceb468c55",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 196",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Conductividad (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3180,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "e5cfbab913f1ea2b",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 197",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma de ORP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3240,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "48cdbccc2bb62a64",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 198",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alta Conductividad EDIC (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3300,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "43e341bbce8d48d6",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 199",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Temperatura Minima de OI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3360,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "cc2651917d56642c",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 200",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Temperatura PreTratamiento (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3420,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "4a38d6a2456bb934",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 201",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Alta Temperatura Control CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3480,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "7c255b463cbf3f4f",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 202",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Maxima Temperatura Retorno CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3540,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "f939a9284f168513",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 203",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Dureza de Alimentacion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3600,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "eae37d3bf6459158",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 204",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Temeratura Disipador SSR (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3660,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "fecd8befd10e48a1",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 205",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla  Bomba Dosificadora de Quimico (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3720,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "326a419cfa561e79",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 206",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Flujo de Alimentacion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3780,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "91c466a4b68c7805",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 207",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Bajo Nivel Tanque de Soda (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3840,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "aac5b9e78b31e896",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 208",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Bajo Nivel Reductor (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3900,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "e9bf10486ae07a4a",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 209",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Bajo Nivel Tanque CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 3960,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "71aa77d386d26be0",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 210",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alto Nivel Tanque CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4020,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "dc46c0ec9563d309",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 211",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Flujo de contra Lavado (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4080,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "a2c38d1cc2468666",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 212",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Bajo Nivel Equipo CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4140,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "744d1def4554ec92",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 213",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Caudal de Entrada (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4200,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "f89ebd3731b905ab",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 214",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Caudal Minimo de Concentrado (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4260,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "6ae7fb251a71851e",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 215",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4320,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "4f82c186a88c105f",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 216",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Caudal Minimo de Electrodo (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4380,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "554bec7b39746360",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 217",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Retorno de CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4440,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "6591fc082f4db2dd",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 218",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Control CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4500,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "272fa7700062f333",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 219",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alta Temperatura para Producir (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4560,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "cd58d6b5fa9d4758",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 220",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Minimo Caudal de Entrada (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4620,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "ec128bae361309ce",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 221",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Temperatura Minima de Producto (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4680,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "1a09ac11c9aacba2",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 222",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma recuperacion Baja (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4740,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "980fcf791c8cd32b",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 223",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma recuperacion Alta (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4800,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "cde7f84259dd7ae1",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 224",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba Alimentacion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4860,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "54be97a5eb9f0c76",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 225",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alta Presion de Bomba (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4920,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "48b39ac680b94b06",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 226",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba de CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 4980,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "0ec28a558f6db1a9",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 227",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba de Alimentacion Accionada (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5040,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "f7e0f83a3f0b7731",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 228",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba de Alta Presion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5100,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "db974f338ed15cb3",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 229",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba de CIP Accionada (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5160,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "894b6d8d0fdae7dd",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 230",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba EDI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5220,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "9585327fb32d5a7d",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 231",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba EDI Accionada (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5280,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "dfab2e7d312898d5",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 232",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla EDI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 955,
+        "y": 5341,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "3f0cee58046f8fed",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 233",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion  Maxima de Salida Bomba CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5400,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "254f5f385e738256",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 234",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Temperatura Baja Presion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5460,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "e2bb0c4a27a20bc4",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 235",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion de salida minima Bomba CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5520,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "d472c0fbe52aad98",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 236",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Bajo Nivel Tanque Anticrustante (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5580,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "ce62295ad56a7493",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 237",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \" Ablandador no Regenerando (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5640,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "e207029d2dc199a0",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 238",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \" Falla Ablandadores (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5700,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "6e3fda700e9efa3b",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 239",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion  Entrada Bomba EDI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5760,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "1a42091eddf26a77",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 240",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion Minima EDI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5820,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "bfb149c08eb9c736",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 241",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion Maxima Salida Presion EDI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5880,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "b2c77994c02f8bbc",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 242",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion MInma Salida Bomba CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 5940,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "f17fdb5a3312705d",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 243",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba Alta Presion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6000,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "ce0404be68b0cf01",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 244",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Bomba Baja Presion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6060,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "f1faba124c7087fe",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 245",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Alta Presion Salida Bomba CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6120,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "3d9efe727219e5f6",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 246",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion Minima Bomba CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6180,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "78958f8d4ee28af9",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 247",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Presion minima Bomba Alta (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6240,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "4bdf57fe5625d88f",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 248",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Presion Maxima Entrada Menbrana (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6300,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "5e93a07cabe31b8e",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 249",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Maxima Presion Salida Bomba CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6360,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "02b1835cdfaf163a",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 250",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Alta Presion Alimentacion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6420,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "0106db11c77a92f2",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 251",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Presion de Salida (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6480,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "1af7da32c29c41f6",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 252",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Presion Maxima Entrada EDI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6540,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "a4cc331cc672baa2",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 253",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Presion Minima Salida CIP (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6600,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "1e4a483d651bc0b1",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 254",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Bajo Nivel Tanque Cloro (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6660,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "578abb4a01749916",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 255",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Mal Funcionmiento Caudalimetro 1 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6720,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "b1ec999aa35ee3f4",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 256",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Mal Funcionmiento Caudalimetro 2 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6780,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "6699ffd92c11e5bd",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 257",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Mal Funcionmiento Caudalimetro 3 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6840,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "434b6e25cdc4797e",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 258",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Mal Funcionmiento Caudalimetro 4 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6900,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "538dd9e98d8cbf64",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 259",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Mal Funcionmiento Caudalimetro 5 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 6960,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "e4876c6dbaefd7b7",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 260",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Mal Funcionmiento Caudalimetro 6 (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7020,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "1275b108729b960b",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 261",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Temperatura de Retorno (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7080,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "e554c5bccd4a5c39",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 262",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Alto PH de Alimentacion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7140,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "5fb965a8f2bd8a46",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 263",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Bajo PH de Alimentacion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7200,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "48caf5bbfebbbf21",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 264",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Diferencia de Presion Microfiltros (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7260,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "a1b4db7d683e5d16",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 265",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Multimedia Contra Lavado (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7320,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "2214ce73908d16b5",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 266",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Recuperacion Alta EDI (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7380,
+        "wires": [
+            [
+                "d9eeafe0924eb33f"
+            ]
+        ]
+    },
+    {
+        "id": "c4553b3c899cf190",
+        "type": "function",
+        "z": "7f559090ad46a58f",
+        "name": "function 267",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Conductividad Alta Alimentacion (Modulo)\"\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 7440,
         "wires": [
             [
                 "d9eeafe0924eb33f"
@@ -8814,8 +14523,8 @@
         "bot": "d527f80dc620f982",
         "haserroroutput": false,
         "outputs": 1,
-        "x": 1340,
-        "y": 200,
+        "x": 1300,
+        "y": 360,
         "wires": [
             []
         ]
@@ -8865,7 +14574,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 61",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"ALTO NIVEL PW EN TANQUE\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -8925,7 +14634,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 62",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"BAJO NIVEL PW EN TANQUE\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -8985,7 +14694,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 63",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"ALTA CONDUCTIVIDAD LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9045,7 +14754,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 64",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"BAJO CAUDAL RETORNO LOOP PW - PROCESOS I\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9105,7 +14814,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 65",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"BAJO CAUDAL RETORNO LOOP PW - PROCESOS II\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9405,7 +15114,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 70",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Falta Tensión de Línea\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9465,7 +15174,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 71",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Falla Disco de Ruptura\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9525,7 +15234,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 72",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA BOMBA PU/PW1/001 - LOOP PW PROCESOS I\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9585,7 +15294,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 73",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA BOMBA PU/PW2/001 - LOOP PW PROCESOS II\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9645,7 +15354,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 74",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALTA DE AIRE COMPRIMIDO - PRESOSTATO\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9705,7 +15414,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 75",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \" BAJO NIVEL TANQUE CLORO\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9825,7 +15534,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 77",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"ALTA TEMPERATURA ENTRADA HEX LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9885,7 +15594,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 78",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"BAJA TEMPERATURA ENTRADA HEX LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -9945,7 +15654,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 79",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"ALTA TEMPERATURA RETORNO LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -10005,7 +15714,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 80",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"BAJA TEMPERATURA RETORNO LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -10065,7 +15774,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 81",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"ALTO VALOR  CLORO EN RETORNO A TANQUE PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -10125,7 +15834,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 82",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"BAJO VALOR  CLORO EN RETORNO A TANQUE PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -10185,7 +15894,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 83",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"ALTO VALOR  PH EN RETORNO A TANQUE PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -10245,7 +15954,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 84",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"BAJO VALOR  PH EN RETORNO A TANQUE PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -10425,7 +16134,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 87",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA ENFRIAMIENTO HEX LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -10785,7 +16494,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 93",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR PH LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -11265,7 +16974,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 101",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR CAUD. LOOP PW - PROCESOS I\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -11325,7 +17034,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 102",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR CONDUCT LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -11385,7 +17094,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 103",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR NIVEL TANQUE PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -11445,7 +17154,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 104",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR CAUD. LOOP PW - PROCESOS II\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -11563,7 +17272,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 106",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR TEMP. ENTRADA HEX LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -11623,7 +17332,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 107",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR CLORO LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -11683,7 +17392,7 @@
         "type": "function",
         "z": "1af80aecd8dc33bc",
         "name": "function 108",
-        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"Alarma Loops Cloro\"\n}\nreturn msg;",
+        "func": "msg.payload ={\n    chatId :\"-1003700875136\",\n    type : \"message\",\n    content: \"FALLA SENSOR TEMP. RETORNO LOOPS PW\"\n}\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
         "noerr": 0,
@@ -12569,6 +18278,266 @@
         "libs": [],
         "x": 810,
         "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "805554af8ce294bb",
+        "type": "OpcUa-Client",
+        "z": "c5e275f6141a6609",
+        "g": "d8034ea49de2ce1d",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 400,
+        "y": 800,
+        "wires": [
+            [
+                "d0edad3591a28edc"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8a36c4e5cff45551",
+        "type": "inject",
+        "z": "c5e275f6141a6609",
+        "g": "d8034ea49de2ce1d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-11 00:07:46:89:c1:9b.Application.VAR_REM.KWH_Total_trafo1",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d0edad3591a28edc",
+        "type": "function",
+        "z": "c5e275f6141a6609",
+        "g": "d8034ea49de2ce1d",
+        "name": "function 180",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 800,
+        "wires": [
+            [
+                "91fe67aa8270e59b"
+            ]
+        ]
+    },
+    {
+        "id": "ee9f626393e1449d",
+        "type": "function",
+        "z": "c5e275f6141a6609",
+        "g": "02f84c092dbab796",
+        "name": "function 181",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"KWH_Trafo1 KWH_Trafo1=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 680,
+        "wires": [
+            [
+                "db9f29c4d8c4e113"
+            ]
+        ]
+    },
+    {
+        "id": "8b21bdbaadce70fa",
+        "type": "http request",
+        "z": "c5e275f6141a6609",
+        "g": "d8034ea49de2ce1d",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1050,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a0dd6cc80892704b",
+        "type": "OpcUa-Client",
+        "z": "c5e275f6141a6609",
+        "g": "02f84c092dbab796",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 380,
+        "y": 680,
+        "wires": [
+            [
+                "f2b683d015b70231"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3a9fa52c0a029a1a",
+        "type": "inject",
+        "z": "c5e275f6141a6609",
+        "g": "02f84c092dbab796",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PersistentVars.KWH_Total_Trafo1",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 680,
+        "wires": [
+            [
+                "a0dd6cc80892704b"
+            ]
+        ]
+    },
+    {
+        "id": "f2b683d015b70231",
+        "type": "function",
+        "z": "c5e275f6141a6609",
+        "g": "02f84c092dbab796",
+        "name": "function 182",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 680,
+        "wires": [
+            [
+                "ee9f626393e1449d"
+            ]
+        ]
+    },
+    {
+        "id": "91fe67aa8270e59b",
+        "type": "function",
+        "z": "c5e275f6141a6609",
+        "g": "d8034ea49de2ce1d",
+        "name": "function 183",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"KWH_Trafo2 KWH_Trafo2=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 800,
+        "wires": [
+            [
+                "8b21bdbaadce70fa"
+            ]
+        ]
+    },
+    {
+        "id": "db9f29c4d8c4e113",
+        "type": "http request",
+        "z": "c5e275f6141a6609",
+        "g": "02f84c092dbab796",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1050,
+        "y": 680,
         "wires": [
             []
         ]
