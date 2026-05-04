@@ -590,6 +590,118 @@
         "h": 361.5
     },
     {
+        "id": "c52240eb82624ff1",
+        "type": "group",
+        "z": "c24e31101075dc16",
+        "name": "Consumo Agua Potable",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "4a3b3fb36d66d2af",
+            "0f9fcebdc72cfe6e",
+            "df35103b500dfe9c",
+            "d510281ec566cc74",
+            "78d6430cdc76145f"
+        ],
+        "x": 154,
+        "y": 211.5,
+        "w": 1132,
+        "h": 97
+    },
+    {
+        "id": "21b8eea7af1eed2e",
+        "type": "group",
+        "z": "c24e31101075dc16",
+        "name": "Consumo Agua Pozo 8",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "39c764c1909c5f72",
+            "2907d10ed2763987",
+            "f376998dd80b2330",
+            "9891642a7ed7d811",
+            "d3c0e3ff9da3e569"
+        ],
+        "x": 154,
+        "y": 331.5,
+        "w": 1132,
+        "h": 97
+    },
+    {
+        "id": "b9ddbf557adca1ff",
+        "type": "group",
+        "z": "c24e31101075dc16",
+        "name": "Consumo Agua Citus",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "4c6a2b1b241e67df",
+            "3f2a958b1dbf7a3f",
+            "2ff89dada47cecc4",
+            "19462738e0613ccf",
+            "a8185f8e918e1b03"
+        ],
+        "x": 154,
+        "y": 451.5,
+        "w": 1132,
+        "h": 97
+    },
+    {
+        "id": "25379f6ccee4b70f",
+        "type": "group",
+        "z": "c24e31101075dc16",
+        "name": "Consumo Agua Pasillo Inicio",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5f8394856489ef4e",
+            "309aaaf8dc8d6765",
+            "dd8f20ffa38f4726",
+            "465f3c82e3c43a08",
+            "d5eda15e0ffe6ef6"
+        ],
+        "x": 154,
+        "y": 571.5,
+        "w": 1132,
+        "h": 97
+    },
+    {
+        "id": "7668c773cec8f10f",
+        "type": "group",
+        "z": "c24e31101075dc16",
+        "name": "Nivel TK Agua Potable",
+        "style": {
+            "label": true,
+            "fill": "#ffcf3f",
+            "color": "#000000",
+            "fill-opacity": "0.44"
+        },
+        "nodes": [
+            "a547954b2e3577db",
+            "1420fbf2cd22bbbb",
+            "4933323e9336048d",
+            "8c1edb3a52049b5e",
+            "5ebec58c993bae77",
+            "756d45a1ea8b32dd"
+        ],
+        "x": 154,
+        "y": 39,
+        "w": 1172,
+        "h": 142
+    },
+    {
         "id": "02f84c092dbab796",
         "type": "group",
         "z": "c5e275f6141a6609",
@@ -1277,116 +1389,136 @@
         "h": 129.5
     },
     {
-        "id": "c52240eb82624ff1",
+        "id": "0ad9eb54c3eb47e7",
         "type": "group",
         "z": "c24e31101075dc16",
-        "name": "Consumo Agua Potable",
+        "name": "Consumo Agua 0smosis",
         "style": {
             "fill": "#ffefbf",
             "label": true,
             "color": "#000000"
         },
         "nodes": [
-            "4a3b3fb36d66d2af",
-            "0f9fcebdc72cfe6e",
-            "df35103b500dfe9c",
-            "d510281ec566cc74",
-            "78d6430cdc76145f"
+            "24ba610b687bbe3c",
+            "932d26505eaf1513",
+            "1f858ddff3fe12b9",
+            "da2585403d287b9d",
+            "c140c92698d84538"
         ],
         "x": 154,
-        "y": 211.5,
+        "y": 691.5,
         "w": 1132,
         "h": 97
     },
     {
-        "id": "21b8eea7af1eed2e",
+        "id": "0713d82bd3e1897a",
         "type": "group",
         "z": "c24e31101075dc16",
-        "name": "Consumo Agua Pozo 8",
+        "name": "Consumo Agua Mas 6",
         "style": {
             "fill": "#ffefbf",
             "label": true,
             "color": "#000000"
         },
         "nodes": [
-            "39c764c1909c5f72",
-            "2907d10ed2763987",
-            "f376998dd80b2330",
-            "9891642a7ed7d811",
-            "d3c0e3ff9da3e569"
+            "c7d1536cf0beca08",
+            "e6f50a82fdeed36b",
+            "8337a2ad1e7152ee",
+            "0a0a8d74923bbf17",
+            "bed83b06324f5e47"
         ],
         "x": 154,
-        "y": 331.5,
+        "y": 811.5,
         "w": 1132,
         "h": 97
     },
     {
-        "id": "b9ddbf557adca1ff",
+        "id": "83ba7be93c328dfa",
         "type": "group",
         "z": "c24e31101075dc16",
-        "name": "Consumo Agua Citus",
+        "name": "Consumo Agua Intercambiador Vestuario",
         "style": {
             "fill": "#ffefbf",
             "label": true,
             "color": "#000000"
         },
         "nodes": [
-            "4c6a2b1b241e67df",
-            "3f2a958b1dbf7a3f",
-            "2ff89dada47cecc4",
-            "19462738e0613ccf",
-            "a8185f8e918e1b03"
+            "8b25525742eaefb7",
+            "1766dad7ddc6096a",
+            "8b4a41d49b2f02c7",
+            "8b4f9e4569f765fc",
+            "68306e03d7962656"
         ],
         "x": 154,
-        "y": 451.5,
+        "y": 931.5,
         "w": 1132,
         "h": 97
     },
     {
-        "id": "25379f6ccee4b70f",
+        "id": "7d0da3a2c72d9ef6",
         "type": "group",
         "z": "c24e31101075dc16",
-        "name": "Consumo Agua Pasillo Inicio",
+        "name": "Consumo Agua Pasarela Tecnica",
         "style": {
             "fill": "#ffefbf",
             "label": true,
             "color": "#000000"
         },
         "nodes": [
-            "5f8394856489ef4e",
-            "309aaaf8dc8d6765",
-            "dd8f20ffa38f4726",
-            "465f3c82e3c43a08",
-            "d5eda15e0ffe6ef6"
+            "6c17f06c7af0de4a",
+            "dc7cffc8b540f67e",
+            "df3c79258ed4c727",
+            "423ccd34ef5690ed",
+            "e432367e475ba011"
         ],
         "x": 154,
-        "y": 571.5,
+        "y": 1051.5,
         "w": 1132,
         "h": 97
     },
     {
-        "id": "7668c773cec8f10f",
+        "id": "83cf976b227c3a6e",
         "type": "group",
         "z": "c24e31101075dc16",
-        "name": "Nivel TK Agua Potable",
+        "name": "Consumo Agua Pasillo",
         "style": {
+            "fill": "#ffefbf",
             "label": true,
-            "fill": "#ffcf3f",
-            "color": "#000000",
-            "fill-opacity": "0.44"
+            "color": "#000000"
         },
         "nodes": [
-            "a547954b2e3577db",
-            "1420fbf2cd22bbbb",
-            "4933323e9336048d",
-            "8c1edb3a52049b5e",
-            "5ebec58c993bae77",
-            "756d45a1ea8b32dd"
+            "d6c0b519f1fff6e6",
+            "3d86dc2054540ba7",
+            "351e30971b23fb88",
+            "c237ddab3fad3d1e",
+            "651bb2481a951981"
         ],
         "x": 154,
-        "y": 39,
-        "w": 1172,
-        "h": 142
+        "y": 1171.5,
+        "w": 1132,
+        "h": 97
+    },
+    {
+        "id": "2983191b200e52a6",
+        "type": "group",
+        "z": "c24e31101075dc16",
+        "name": "Consumo Agua Rechazo Osmosis",
+        "style": {
+            "fill": "#ffefbf",
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "c77685a2d049d371",
+            "30b9163b6153af5d",
+            "8309c56e5d0b9f6e",
+            "9b48cad4660dcfa1",
+            "ab64da69ef182490"
+        ],
+        "x": 154,
+        "y": 1291.5,
+        "w": 1132,
+        "h": 97
     },
     {
         "id": "0226210ee61fccfe",
@@ -24919,7 +25051,7 @@
         "repeat": "600",
         "crontab": "",
         "once": true,
-        "onceDelay": "20",
+        "onceDelay": "1",
         "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_PotableL",
         "payload": "",
         "payloadType": "date",
@@ -25050,7 +25182,7 @@
         "repeat": "600",
         "crontab": "",
         "once": true,
-        "onceDelay": "20",
+        "onceDelay": "6",
         "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_Pozo_8M3",
         "payload": "",
         "payloadType": "date",
@@ -25181,7 +25313,7 @@
         "repeat": "600",
         "crontab": "",
         "once": true,
-        "onceDelay": "20",
+        "onceDelay": "11",
         "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_CitusM3",
         "payload": "",
         "payloadType": "date",
@@ -25312,7 +25444,7 @@
         "repeat": "600",
         "crontab": "",
         "once": true,
-        "onceDelay": "20",
+        "onceDelay": "16",
         "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_Pasillo_InicioM3",
         "payload": "",
         "payloadType": "date",
@@ -25472,6 +25604,792 @@
         "y": 140,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "24ba610b687bbe3c",
+        "type": "OpcUa-Client",
+        "z": "c24e31101075dc16",
+        "g": "0ad9eb54c3eb47e7",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 640,
+        "y": 740,
+        "wires": [
+            [
+                "932d26505eaf1513"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "932d26505eaf1513",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "0ad9eb54c3eb47e7",
+        "name": "function 341",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 740,
+        "wires": [
+            [
+                "da2585403d287b9d"
+            ]
+        ]
+    },
+    {
+        "id": "1f858ddff3fe12b9",
+        "type": "http request",
+        "z": "c24e31101075dc16",
+        "g": "0ad9eb54c3eb47e7",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1190,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "da2585403d287b9d",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "0ad9eb54c3eb47e7",
+        "name": "function 342",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"Agua_Osmosis Agua_Osmosis=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 740,
+        "wires": [
+            [
+                "1f858ddff3fe12b9"
+            ]
+        ]
+    },
+    {
+        "id": "c140c92698d84538",
+        "type": "inject",
+        "z": "c24e31101075dc16",
+        "g": "0ad9eb54c3eb47e7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "21",
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_OsmosisL",
+        "payload": "",
+        "payloadType": "date",
+        "x": 270,
+        "y": 740,
+        "wires": [
+            [
+                "24ba610b687bbe3c"
+            ]
+        ]
+    },
+    {
+        "id": "c7d1536cf0beca08",
+        "type": "OpcUa-Client",
+        "z": "c24e31101075dc16",
+        "g": "0713d82bd3e1897a",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 640,
+        "y": 860,
+        "wires": [
+            [
+                "e6f50a82fdeed36b"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "e6f50a82fdeed36b",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "0713d82bd3e1897a",
+        "name": "function 343",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 860,
+        "wires": [
+            [
+                "0a0a8d74923bbf17"
+            ]
+        ]
+    },
+    {
+        "id": "8337a2ad1e7152ee",
+        "type": "http request",
+        "z": "c24e31101075dc16",
+        "g": "0713d82bd3e1897a",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1190,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0a0a8d74923bbf17",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "0713d82bd3e1897a",
+        "name": "function 344",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"Agua_mas_6 Agua_mas_6=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 860,
+        "wires": [
+            [
+                "8337a2ad1e7152ee"
+            ]
+        ]
+    },
+    {
+        "id": "bed83b06324f5e47",
+        "type": "inject",
+        "z": "c24e31101075dc16",
+        "g": "0713d82bd3e1897a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "26",
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_mas_6L",
+        "payload": "",
+        "payloadType": "date",
+        "x": 270,
+        "y": 860,
+        "wires": [
+            [
+                "c7d1536cf0beca08"
+            ]
+        ]
+    },
+    {
+        "id": "8b25525742eaefb7",
+        "type": "OpcUa-Client",
+        "z": "c24e31101075dc16",
+        "g": "83ba7be93c328dfa",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 640,
+        "y": 980,
+        "wires": [
+            [
+                "1766dad7ddc6096a"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "1766dad7ddc6096a",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "83ba7be93c328dfa",
+        "name": "function 345",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 980,
+        "wires": [
+            [
+                "8b4f9e4569f765fc"
+            ]
+        ]
+    },
+    {
+        "id": "8b4a41d49b2f02c7",
+        "type": "http request",
+        "z": "c24e31101075dc16",
+        "g": "83ba7be93c328dfa",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1190,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8b4f9e4569f765fc",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "83ba7be93c328dfa",
+        "name": "function 346",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"Agua_Vestuario Agua_Vestuario=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 980,
+        "wires": [
+            [
+                "8b4a41d49b2f02c7"
+            ]
+        ]
+    },
+    {
+        "id": "68306e03d7962656",
+        "type": "inject",
+        "z": "c24e31101075dc16",
+        "g": "83ba7be93c328dfa",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "26",
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_Intercambiador_VestuarioL",
+        "payload": "",
+        "payloadType": "date",
+        "x": 270,
+        "y": 980,
+        "wires": [
+            [
+                "8b25525742eaefb7"
+            ]
+        ]
+    },
+    {
+        "id": "6c17f06c7af0de4a",
+        "type": "OpcUa-Client",
+        "z": "c24e31101075dc16",
+        "g": "7d0da3a2c72d9ef6",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 640,
+        "y": 1100,
+        "wires": [
+            [
+                "dc7cffc8b540f67e"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "dc7cffc8b540f67e",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "7d0da3a2c72d9ef6",
+        "name": "function 347",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1100,
+        "wires": [
+            [
+                "423ccd34ef5690ed"
+            ]
+        ]
+    },
+    {
+        "id": "df3c79258ed4c727",
+        "type": "http request",
+        "z": "c24e31101075dc16",
+        "g": "7d0da3a2c72d9ef6",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1190,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "423ccd34ef5690ed",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "7d0da3a2c72d9ef6",
+        "name": "function 348",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"Agua_Pasarela_Tecnica Agua_Pasarela_Tecnica=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1100,
+        "wires": [
+            [
+                "df3c79258ed4c727"
+            ]
+        ]
+    },
+    {
+        "id": "e432367e475ba011",
+        "type": "inject",
+        "z": "c24e31101075dc16",
+        "g": "7d0da3a2c72d9ef6",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "31",
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_PasarelaM3",
+        "payload": "",
+        "payloadType": "date",
+        "x": 270,
+        "y": 1100,
+        "wires": [
+            [
+                "6c17f06c7af0de4a"
+            ]
+        ]
+    },
+    {
+        "id": "d6c0b519f1fff6e6",
+        "type": "OpcUa-Client",
+        "z": "c24e31101075dc16",
+        "g": "83cf976b227c3a6e",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 640,
+        "y": 1220,
+        "wires": [
+            [
+                "3d86dc2054540ba7"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3d86dc2054540ba7",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "83cf976b227c3a6e",
+        "name": "function 349",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1220,
+        "wires": [
+            [
+                "c237ddab3fad3d1e"
+            ]
+        ]
+    },
+    {
+        "id": "351e30971b23fb88",
+        "type": "http request",
+        "z": "c24e31101075dc16",
+        "g": "83cf976b227c3a6e",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1190,
+        "y": 1220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c237ddab3fad3d1e",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "83cf976b227c3a6e",
+        "name": "function 350",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"Agua_Pasillo Agua_Pasilloa=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1220,
+        "wires": [
+            [
+                "351e30971b23fb88"
+            ]
+        ]
+    },
+    {
+        "id": "651bb2481a951981",
+        "type": "inject",
+        "z": "c24e31101075dc16",
+        "g": "83cf976b227c3a6e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "36",
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_PasilloM3",
+        "payload": "",
+        "payloadType": "date",
+        "x": 270,
+        "y": 1220,
+        "wires": [
+            [
+                "d6c0b519f1fff6e6"
+            ]
+        ]
+    },
+    {
+        "id": "c77685a2d049d371",
+        "type": "OpcUa-Client",
+        "z": "c24e31101075dc16",
+        "g": "2983191b200e52a6",
+        "endpoint": "0dad547b027786f3",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "applicationName": "",
+        "applicationUri": "",
+        "x": 640,
+        "y": 1340,
+        "wires": [
+            [
+                "30b9163b6153af5d"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "30b9163b6153af5d",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "2983191b200e52a6",
+        "name": "function 351",
+        "func": "// Convierte el valor a entero, eliminando los decimales\nmsg.payload = Math.trunc(msg.payload);\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1340,
+        "wires": [
+            [
+                "9b48cad4660dcfa1"
+            ]
+        ]
+    },
+    {
+        "id": "8309c56e5d0b9f6e",
+        "type": "http request",
+        "z": "c24e31101075dc16",
+        "g": "2983191b200e52a6",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://localhost:8181/api/v2/write?bucket=scada_datos",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1190,
+        "y": 1340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9b48cad4660dcfa1",
+        "type": "function",
+        "z": "c24e31101075dc16",
+        "g": "2983191b200e52a6",
+        "name": "function 352",
+        "func": "// Asumimos que el nodo S7 te entrega el valor de la temperatura en msg.payload\nlet valor_plc = msg.payload;\n\n// 1. Armamos el formato Line Protocol de InfluxDB\nmsg.payload = \"Agua_Rechazo_Osmosis Agua_Rechazo_Osmosis=\" + valor_plc;\n\n// 2. Le inyectamos tu Token de seguridad\nmsg.headers = {\n    \"Authorization\": \"Token apiv3_l4akdgijZWww7vV5vuYcA3D7Ca4ipMxaDdWYQCuEMf2WWbMma_DEjw2u3aCKJ7qhjCq2eAVO80QAsVUUt9pJNw\" // ¡Recuerda pegar tu token real aquí!\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1340,
+        "wires": [
+            [
+                "8309c56e5d0b9f6e"
+            ]
+        ]
+    },
+    {
+        "id": "ab64da69ef182490",
+        "type": "inject",
+        "z": "c24e31101075dc16",
+        "g": "2983191b200e52a6",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "600",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "41",
+        "topic": "ns=2;s=Codesys.TBEN-L5-PLC-10 00:07:46:ff:a4:9d.Application.PER.Total_Agua_Rechazo_OsmosisM3",
+        "payload": "",
+        "payloadType": "date",
+        "x": 270,
+        "y": 1340,
+        "wires": [
+            [
+                "c77685a2d049d371"
+            ]
         ]
     }
 ]
